@@ -17,28 +17,19 @@ Feel free to contact me: salemi1@ualberta.ca
 
 Honors and Awards
 ======
-University of Alberta Education Abroad Award
-
-RWTH Aachen – University of Alberta Junior Research Fellowship
-
-CREATE PD Scholarship for Distinguished Honorary CREATE Students
-
-Ranked 1st in the Mechanical Engineering Department (GPA: 4/4), University of Alberta
-
-Graduate Students’ Association (GSA) Travel Award
-
-University of Ottawa Admission with financial support (Declined)
-
-University of Windsor International Admission (Declined)
-
-Concordia University International Admission (Declined)
-
-Ranked top 20% in the Mechanical Engineering Department, K. N. Toosi University of Technology
-
+- **University of Alberta Education Abroad Award**
+- **RWTH Aachen – University of Alberta Junior Research Fellowship**
+- **CREATE PD Scholarship for Distinguished Honorary CREATE Students**
+- **Ranked 1st in the Mechanical Engineering Department (GPA: 4/4), University of Alberta**
+- **Graduate Students’ Association (GSA) Travel Award**
+- **University of Ottawa Admission with Financial Support** *(Declined)*
+- **University of Windsor International Admission** *(Declined)*
+- **Concordia University International Admission** *(Declined)*
+- **Ranked Top 20% in the Mechanical Engineering Department, K. N. Toosi University of Technology**
 
 Education
 ------
 
-Example: editing a Markdown file for a talk
+M.Sc. in Mechanical Engineering
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
