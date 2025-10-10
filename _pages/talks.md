@@ -58,9 +58,9 @@ author_profile: true
 
 <!-- 2024 — Talk 6 -->
 <section class="talk-block">
-  <h3>Integrating Webcam Image and User Log Data for Enhanced Affective State Analysis in Human-Computer Interaction During Gameplay</h3>
-  <div class="talk-meta">August 13–15, 2024</div>
-  <div class="talk-meta">Faculty of Engineering Graduate Research Symposium (FEGRS), Edmonton, Canada</div>
+  <h3>Real-Time Modeling of Human Motor Learning in Robot-Aided Training</h3>
+  <div class="talk-meta">May 9, 2025</div>
+  <div class="talk-meta">Biomedical Engineering Research Day, University of Alberta, Edmonton, Canada</div>
   <div class="talk-images">
     <div class="img-grid two">
       <div class="frame"><img src="/images/talks/talk6.jpg" alt="FEGRS talk - photo 1" loading="lazy"></div>
@@ -73,9 +73,9 @@ author_profile: true
 
 <!-- 2024 — Talk 5 -->
 <section class="talk-block">
-  <h3>Enhancing Engagement Level Detection During Gameplay Using a Multi-Modal Vision Transformer Model</h3>
-  <div class="talk-meta">September 6, 2024</div>
-  <div class="talk-meta">Reverse EXPO 2024, University of Alberta, Edmonton, Canada</div>
+  <h3>Using Multi-Modal Emotion Recognition and Decision-Making Systems to Personalize Gaming Experience Based on Player Emotions</h3>
+  <div class="talk-meta">November 12–13, 2024</div>
+  <div class="talk-meta">Alberta Robotics & Intelligent Systems Expo (Alberta RISE 2024), Edmonton, Canada</div>
   <div class="talk-images">
     <div class="img-grid two">
       <div class="frame"><img src="/images/talks/talk5.jpg" alt="Reverse EXPO talk - photo 1" loading="lazy"></div>
@@ -103,9 +103,9 @@ author_profile: true
 
 <!-- 2024 — Talk 3 -->
 <section class="talk-block">
-  <h3>Using Multi-Modal Emotion Recognition and Decision-Making Systems to Personalize Gaming Experience Based on Player Emotions</h3>
-  <div class="talk-meta">November 12–13, 2024</div>
-  <div class="talk-meta">Alberta Robotics & Intelligent Systems Expo (Alberta RISE 2024), Edmonton, Canada</div>
+  <h3>Accessible Precision Healthcare: AI-Enabled Technologies for Quantitative Assessment of Motor Function & Personalized Motor Training</h3>
+  <div class="talk-meta">October 11, 2024</div>
+  <div class="talk-meta">iSMART Talk, University of Alberta, Edmonton, Canada</div>
   <div class="talk-images">
     <div class="img-grid two">
       <div class="frame"><img src="/images/talks/talk3.jpg" alt="RISE talk - photo 1" loading="lazy"></div>
@@ -118,9 +118,9 @@ author_profile: true
 
 <!-- 2024 — Talk 2 (one image) -->
 <section class="talk-block">
-  <h3>Accessible Precision Healthcare: AI-Enabled Technologies for Quantitative Assessment of Motor Function & Personalized Motor Training</h3>
-  <div class="talk-meta">October 11, 2024</div>
-  <div class="talk-meta">iSMART Talk, University of Alberta, Edmonton, Canada</div>
+  <h3>Enhancing Player Engagement Level Detection During Gameplay Using a Multi-Modal Vision Transformer Model</h3>
+  <div class="talk-meta">September 6, 2024</div>
+  <div class="talk-meta">Reverse EXPO 2024, University of Alberta, Edmonton, Canada</div>
   <div class="talk-images">
     <div class="img-grid one">
       <div class="frame"><img src="/images/talks/talk2.jpg" alt="iSMART Talk photo" loading="lazy"></div>
@@ -132,9 +132,9 @@ author_profile: true
 
 <!-- 2025 — Talk 1 -->
 <section class="talk-block">
-  <h3>Real-Time Modeling of Human Motor Learning in Robot-Aided Training</h3>
-  <div class="talk-meta">May 9, 2025</div>
-  <div class="talk-meta">Biomedical Engineering Research Day, University of Alberta, Edmonton, Canada</div>
+  <h3>Integrating Webcam Image and User Log Data for Enhanced Affective State Analysis in Human-Computer Interaction During Gameplay</h3>
+  <div class="talk-meta">August 13–15, 2024</div>
+  <div class="talk-meta">Faculty of Engineering Graduate Research Symposium (FEGRS), Edmonton, Canada</div>
   <div class="talk-images">
     <div class="img-grid two">
       <div class="frame"><img src="/images/talks/talk1.jpg" alt="BERD talk - photo 1" loading="lazy"></div>
