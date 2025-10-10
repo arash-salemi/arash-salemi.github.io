@@ -68,7 +68,19 @@ Work Experience
       <div style="font-weight:600; margin-bottom:4px;">Optimizing Human-in-the-Loop Robotic Training</div>
       <div><strong>IDEA Lab</strong>, University of Alberta — <em>2023–Present</em></div>
     </td>
+    <!-- IGMR -->
+    <td style="vertical-align:top; width:50%; text-align:center;">
+      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/igmr.png" alt="IGMR logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      </div>
+      <h3 style="margin:6px 0 4px;">Internship</h3>
+      <div style="font-weight:600; margin-bottom:4px;">ROS 2 Trajectory Tracking for Paragrip</div>
+      <div><strong>IGMR Institute</strong>, RWTH Aachen — <em>Summer 2025</em></div>
+    </td>
 
+  </tr>
+
+  <tr>
     <!-- NCBL Lab -->
     <td style="vertical-align:top; width:50%; text-align:center;">
       <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
@@ -77,18 +89,6 @@ Work Experience
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
       <div style="font-weight:600; margin-bottom:4px;">Adaptive Robot Game Personalization (Emotion-Aware)</div>
       <div><strong>NCBL Lab</strong>, University of Alberta — <em>2023–2025</em></div>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- IGMR -->
-    <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
-        <img src="/images/igmr.png" alt="IGMR logo" style="max-width:100%; max-height:100%; object-fit:contain;">
-      </div>
-      <h3 style="margin:6px 0 4px;">Intern</h3>
-      <div style="font-weight:600; margin-bottom:4px;">ROS 2 Trajectory Tracking for Paragrip</div>
-      <div><strong>IGMR Institute</strong>, RWTH Aachen — <em>Summer 2025</em></div>
     </td>
 
     <!-- ARAS Lab -->
