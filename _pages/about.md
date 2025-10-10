@@ -27,26 +27,27 @@ Honors and Awards
 
 Education
 ------
-
 <h2 align="center">Education</h2>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="/images/ualberta.png" width="90"><br>
-      <h3>M.Sc. in Mechanical Engineering</h3>
-      <p><strong><a href="https://www.ualberta.ca/">University of Alberta</a></strong><br>
-      2023 – Present | Edmonton, Canada<br>
-      GPA: 4.0 / 4.0<br>
-      # <em>Skills:</em> Mechatronics, Digital Signal Processing, Biomechanics, System Dynamics, Machine Learning</p>
+      <img src="/images/ualberta.png" width="130"><br><br>
+      <h3><strong>M.Sc. in Mechanical Engineering</strong></h3>
+      <p><a href="https://www.ualberta.ca/"><strong>University of Alberta</strong></a><br>
+      2023 – Present&nbsp; | &nbsp;Edmonton, Canada<br>
+      <strong>GPA:</strong> 4.0 / 4.0<br>
+      <em>Skills:</em> Mechatronics, Digital Signal Processing, Biomechanics,<br>
+      System Dynamics, Machine Learning</p>
     </td>
+
     <td align="center" width="50%">
-      <img src="/images/kntu.png" width="90"><br>
-      <h3>B.Sc. in Mechanical Engineering</h3>
-      <p><strong><a href="https://www.kntu.ac.ir/">K. N. Toosi University of Technology</a></strong><br>
-      2017 – 2022 | Tehran, Iran<br>
-      GPA: 3.59 / 4<br>
-    # <!-- <em>Skills:</em> Modeling and Control of a Quadrotor with Reinforcement Learning and PID Controllers</p> -->
+      <img src="/images/kntu.png" width="130"><br><br>
+      <h3><strong>B.Sc. in Mechanical Engineering</strong></h3>
+      <p><a href="https://www.kntu.ac.ir/"><strong>K. N. Toosi University of Technology</strong></a><br>
+      2017 – 2022&nbsp; | &nbsp;Tehran, Iran<br>
+      <strong>GPA:</strong> 3.59 / 4.0<br>
+      <em>Skills:</em> Image Processing, Radiomics, Machine Learning, MRI</p>
     </td>
   </tr>
 </table>
