@@ -41,7 +41,7 @@ Education
     </td>
 
     <td align="center" width="50%">
-      <img src="/images/kntu.png" width="130">
+      <img src="/images/kntu.png" width="130" style="margin-bottom:20px;">
       <h3><strong>B.Sc. in Mechanical Engineering</strong></h3>
       <p><a href="https://www.kntu.ac.ir/"><strong>K. N. Toosi University of Technology</strong></a><br>
       2017 – 2022&nbsp; | &nbsp;Tehran, Iran<br>
