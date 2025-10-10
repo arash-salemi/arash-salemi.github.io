@@ -63,7 +63,7 @@ Work Experience
         <img src="/images/idea_lab.png" alt="IDEA Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
-      <div style="font-weight:600; margin-bottom:4px;">Optimizing Human-in-the-Loop Robotic Training</div>
+      <div style="font-weight:600; margin-bottom:4px;">Optimizing Human-in-the-Loop Robotic Training using System Identification and Optimal Control Methods</div>
       <div><strong>IDEA Lab</strong>, University of Alberta — <em>2023–Present</em></div>
     </td>
     <!-- IGMR -->
