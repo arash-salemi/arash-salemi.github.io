@@ -63,8 +63,9 @@ Work Experience
         <img src="/images/idea_lab.png" alt="IDEA Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
+      <p><a href="https://www.ualberta.ca/"><strong>IDEA Lab</strong></a><br>
       <div style="font-weight:600; margin-bottom:4px;">Optimizing Human-in-the-Loop Robotic Training using System Identification and Optimal Control Methods</div>
-      <div><strong>IDEA Lab</strong>, University of Alberta — <em>2023–Present</em></div>
+      <div>University of Alberta — <em>2023–Present</em></div>
     </td>
     <!-- IGMR -->
     <td style="vertical-align:top; width:50%; text-align:center;">
@@ -72,8 +73,9 @@ Work Experience
         <img src="/images/igmr.png" alt="IGMR logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Internship</h3>
+      <p><a href="https://www.ualberta.ca/"><strong>IGMR Institute</strong></a><br>
       <div style="font-weight:600; margin-bottom:4px;">ROS 2 Trajectory Tracking Controller for the Paragrip Parallel Robot</div>
-      <div><strong>IGMR Institute</strong>, RWTH Aachen — <em>Summer 2025</em></div>
+      <div><strong>RWTH Aachen — <em>Summer 2025</em></div>
     </td>
 
   </tr>
@@ -85,8 +87,9 @@ Work Experience
         <img src="/images/ncbl_lab.png" alt="NCBL Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
+      <p><a href="https://www.ualberta.ca/"><strong>NCBL Lab</strong></a><br>
       <div style="font-weight:600; margin-bottom:4px;">Adaptive Robot Game Personalization via Emotion Recognition and Intelligent Decision-Making</div>
-      <div><strong>NCBL Lab</strong>, University of Alberta — <em>2023–2025</em></div>
+      <div> University of Alberta — <em>2023–2025</em></div>
     </td>
 
     <!-- ARAS Lab -->
@@ -95,8 +98,9 @@ Work Experience
         <img src="/images/aralab.png" alt="ARAS Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
+      <p><a href="https://www.ualberta.ca/"><strong>ARAS Lab</strong></a><br>
       <div style="font-weight:600; margin-bottom:4px;">Reinforcement Learning–Based Quadrotor Control and Optimization</div>
-      <div><strong>ARAS Lab</strong>, K. N. Toosi Univ. — <em>2021–2023</em></div>
+      <div>K. N. Toosi Univ. — <em>2021–2023</em></div>
     </td>
   </tr>
 </table>
