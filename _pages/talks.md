@@ -5,16 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-### 2025
-
 **Real-Time Modeling of Human Motor Learning in Robot-Aided Training**  
 *May 9, 2025*  
 Biomedical Engineering Research Day, University of Alberta, Edmonton, Canada  
 *A. Salemi, A. Afkhami, A. H. Vette, M. Nazarahari*
-
----
-
-### 2024
 
 **Accessible Precision Healthcare: AI-Enabled Technologies for Quantitative Assessment of Motor Function & Personalized Motor Training**  
 *October 11, 2024*  
