@@ -71,7 +71,7 @@ author_profile: true
   <div class="talk-meta">Biomedical Engineering Research Day, University of Alberta, Edmonton, Canada</div>
   <div class="talk-images two">
     <img src="/images/talks/talk6.jpg" alt="Talk 1 photo 1">
-    <img src="/images/talks/talk66.jpg" alt="Talk 1 photo 2">
+    <img src="/images/talks/talk6666.jpg" alt="Talk 1 photo 2">
   </div>
 </section>
 
