@@ -5,6 +5,51 @@ permalink: /talks/
 author_profile: true
 ---
 
+
+<!-- Slideshow: put this above your talks list -->
+<style>
+.slideshow {
+  position: relative;
+  max-width: 1000px;
+  margin: 0 auto 32px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,.12);
+  background: #000;
+}
+.slideshow img {
+  width: 100%;
+  height: auto;
+  display: none;
+}
+.slideshow img.active {
+  display: block;
+  animation: fade 1s ease-in-out;
+}
+@keyframes fade { from {opacity: 0} to {opacity: 1} }
+</style>
+
+<div class="slideshow" id="talks-slideshow">
+  <img src="/images/talks/talk1.jpg" alt="Presentation 1" class="active">
+  <img src="/images/talks/talk2.jpg" alt="Presentation 2">
+  <img src="/images/talks/talk3.jpg" alt="Presentation 3">
+  <img src="/images/talks/talk4.jpg" alt="Presentation 4">
+</div>
+
+<script>
+(function(){
+  const box = document.getElementById('talks-slideshow');
+  const slides = box.querySelectorAll('img');
+  let i = 0;
+  setInterval(() => {
+    slides[i].classList.remove('active');
+    i = (i + 1) % slides.length;
+    slides[i].classList.add('active');
+  }, 4000); // change every 4 seconds
+})();
+</script>
+
+
 **Real-Time Modeling of Human Motor Learning in Robot-Aided Training**  
 *May 9, 2025*  
 Biomedical Engineering Research Day, University of Alberta, Edmonton, Canada  
