@@ -44,7 +44,7 @@ Education
       <a href="https://www.ualberta.ca/"><strong>University of Alberta</strong></a><br>
       <em>2023 – Present · Edmonton, Canada</em><br>
       <strong>GPA:</strong> 4.0 / 4.0<br>
-      <em>Skills:</em> Robotics, System Identification, Optimal Control, Reinforcement Learning, ViT, LMM
+      <em>Skills:</em> Robotics, System Identification, Optimal Control, Reinforcement Learning, ViT, LLM
     </td>
 
     <!-- K. N. Toosi University -->
