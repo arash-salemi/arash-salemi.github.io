@@ -37,8 +37,7 @@ Education
       <p><a href="https://www.ualberta.ca/"><strong>University of Alberta</strong></a><br>
       2023 – Present&nbsp; | &nbsp;Edmonton, Canada<br>
       <strong>GPA:</strong> 4.0 / 4.0<br>
-      <em>Skills:</em> Mechatronics, Digital Signal Processing, Biomechanics,<br>
-      System Dynamics, Machine Learning</p>
+      <em>Thesis:</em> Robotics, System Identification, Optimal Control, Reinforcement Learning, ViT, LMM </p>
     </td>
 
     <td align="center" width="50%">
@@ -47,7 +46,7 @@ Education
       <p><a href="https://www.kntu.ac.ir/"><strong>K. N. Toosi University of Technology</strong></a><br>
       2017 – 2022&nbsp; | &nbsp;Tehran, Iran<br>
       <strong>GPA:</strong> 3.59 / 4.0<br>
-      <em>Skills:</em> Image Processing, Radiomics, Machine Learning, MRI</p>
+      <em>Thesis:</em> Quadrotor, Reinforcement Learning, Control systems, Machine Learning</p>
     </td>
   </tr>
 </table>
