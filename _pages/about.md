@@ -32,7 +32,7 @@ Education
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="/images/ualberta.png" width="130"><br><br>
+      <img src="/images/ualberta.png" width="160"><br><br>
       <h3><strong>M.Sc. in Mechanical Engineering</strong></h3>
       <p><a href="https://www.ualberta.ca/"><strong>University of Alberta</strong></a><br>
       2023 – Present&nbsp; | &nbsp;Edmonton, Canada<br>
