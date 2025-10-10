@@ -97,4 +97,10 @@ Work Experience
       <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
         <img src="/images/aralab.png" alt="ARAS Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
-      <
+      <h3 style="margin:6px 0 4px;">Research Assistant</h3>
+      <strong><a href="https://aras.kntu.ac.ir/">ARAS Lab, K. N. Toosi University</a></strong><br>
+      <div style="font-weight:600; margin-top:6px;">Reinforcement Learning–Based Quadrotor Control and Optimization</div>
+      <em>2021–2023</em>
+    </td>
+  </tr>
+</table>
