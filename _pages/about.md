@@ -41,7 +41,7 @@ Education
     </td>
 
     <td align="center" width="50%">
-      <img src="/images/kntu.png" width="130" style="margin-bottom:20px;">
+      <img src="/images/kntu.png" width="130" style="margin-bottom:10px;">
       <h3><strong>B.Sc. in Mechanical Engineering</strong></h3>
       <p><a href="https://www.kntu.ac.ir/"><strong>K. N. Toosi University of Technology</strong></a><br>
       2017 – 2022&nbsp; | &nbsp;Tehran, Iran<br>
@@ -51,3 +51,64 @@ Education
   </tr>
 </table>
 {% endraw %}
+
+Work Experience
+------
+
+<table>
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <img src="/images/idea_lab.png" width="80" style="border-radius:8px;">
+    </td>
+    <td>
+      <strong>Research Assistant</strong> — <em>IDEA Lab, University of Alberta, Canada</em> <span style="float:right;">2023 – Now</span><br>
+      <strong>Project:</strong> Optimizing Human-in-the-Loop Robotic Training<br>
+      ▸ Implemented Extended Kalman Filter (EKF) and Moving Horizon Estimation (MHE) for real-time state and parameter estimation of upper arm motor learning.<br>
+      ▸ Developed MPC and LQR control methods for personalized robotic training.
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <img src="/images/ncbl_lab.png" width="80" style="border-radius:8px;">
+    </td>
+    <td>
+      <strong>Research Assistant</strong> — <em>NCBL Lab, University of Alberta, Canada</em> <span style="float:right;">2023 – 2025</span><br>
+      <strong>Project:</strong> Adaptive Robot Game Personalization via Emotion Recognition<br>
+      ▸ Developed four Unity games (Spaceship, Pong, Draw, Hit Target) for motor skill assessment.<br>
+      ▸ Implemented emotion recognition via vision transformers (ViT).<br>
+      ▸ Designed recommender systems using fuzzy logic, reinforcement learning, and LLMs.
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <img src="/images/igmr.png" width="80" style="border-radius:8px;">
+    </td>
+    <td>
+      <strong>Intern</strong> — <em>IGMR Institute, RWTH Aachen University, Germany</em> <span style="float:right;">Summer 2025</span><br>
+      <strong>Project:</strong> ROS 2 Trajectory Tracking Controller for the Paragrip Parallel Robot<br>
+      ▸ Designed a custom ROS 2 controller plugin integrated with ROS 2 Control and Gazebo.<br>
+      ▸ Implemented resolved-rate control for precise trajectory tracking and object drift compensation.
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br></td></tr>
+
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <img src="/images/aralab.png" width="80" style="border-radius:8px;">
+    </td>
+    <td>
+      <strong>Research Assistant</strong> — <em>ARAS Lab, K. N. Toosi University of Technology, Iran</em> <span style="float:right;">2021 – 2023</span><br>
+      <strong>Project:</strong> Reinforcement Learning–Based Quadrotor Control and Optimization<br>
+      ▸ Implemented 6 PID controllers with optimized coefficients to enhance system performance.<br>
+      ▸ Developed a reinforcement learning agent using DDPG for quadrotor altitude control.
+    </td>
+  </tr>
+</table>
+
