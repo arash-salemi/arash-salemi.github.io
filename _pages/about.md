@@ -52,7 +52,7 @@ Education
 </table>
 {% endraw %}
 
-Work Experience
+Profossional Experience
 ------
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:24px 28px;">
