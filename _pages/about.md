@@ -27,6 +27,8 @@ Honors and Awards
 
 Education
 ------
+
+
 <h2 align="center">Education</h2>
 
 <table>
@@ -51,5 +53,3 @@ Education
     </td>
   </tr>
 </table>
-
-
