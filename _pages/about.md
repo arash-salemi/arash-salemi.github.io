@@ -28,7 +28,7 @@ Honors and Awards
 Education
 ------
 
-
+{% raw %}
 <h2 align="center">Education</h2>
 
 <table>
@@ -53,3 +53,4 @@ Education
     </td>
   </tr>
 </table>
+{% endraw %}
