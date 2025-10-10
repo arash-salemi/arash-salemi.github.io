@@ -13,8 +13,6 @@ In past years, I have worked on a variety of projects, such as developing MPC co
 
 I also conducted many projects using Machine Learning Methods, such as Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
 
-Feel free to contact me: salemi1@ualberta.ca
-
 Honors and Awards
 ======
 - **University of Alberta Education Abroad Award**
@@ -30,6 +28,27 @@ Honors and Awards
 Education
 ------
 
-M.Sc. in Mechanical Engineering
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<h2 align="center">Education</h2>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="/images/ualberta.png" width="90"><br>
+      <h3>M.Sc. in Mechanical Engineering</h3>
+      <p><strong><a href="https://www.ualberta.ca/">University of Alberta</a></strong><br>
+      2022 – Present | Edmonton, Canada<br>
+      GPA: 4.0 / 4.0<br>
+      <em>Skills:</em> Mechatronics, Digital Signal Processing, Biomechanics, System Dynamics, Machine Learning</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="/images/kntu.png" width="90"><br>
+      <h3>B.Sc. in Mechanical Engineering</h3>
+      <p><strong><a href="https://www.kntu.ac.ir/">K. N. Toosi University of Technology</a></strong><br>
+      2016 – 2020 | Tehran, Iran<br>
+      GPA: 18.36 / 20<br>
+      <em>Skills:</em> Image Processing, Radiomics, Machine Learning, MRI</p>
+    </td>
+  </tr>
+</table>
+
 
