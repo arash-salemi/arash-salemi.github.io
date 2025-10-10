@@ -64,7 +64,7 @@ author_profile: true
   <div class="talk-images">
     <div class="img-grid two">
       <div class="frame"><img src="/images/talks/talk6.jpg" alt="FEGRS talk - photo 1" loading="lazy"></div>
-      <div class="frame"><img src="/images/talks/talk66.jpg" alt="FEGRS talk - photo 2" loading="lazy"></div>
+      <div class="frame"><img src="/images/talks/talk6666.jpg" alt="FEGRS talk - photo 2" loading="lazy"></div>
     </div>
   </div>
 </section>
