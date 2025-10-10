@@ -9,14 +9,21 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Arash Salemi"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Arash Salemi"
+description              : &description >
+
+  I am currently pursuing my M.Sc. in Mechanical Engineering at the IDEA Lab, University of Alberta, under the supervision of Dr. Milad Nazarahari and Dr. Albert Vette. The objective of my current research is to apply principles of optimal control, state estimation, neuroscience, and reinforcement learning to optimize learning during robotic rehabilitation."
+  
+  In past years, I have worked on a variety of projects, such as developing MPC controllers for path tracking, employing reinforcement learning for quadrotor control, designing fuzzy logic and PID controllers for mobile robots, Analyzing a 7-DOF Vehicle Vibration Model, Manufacturing Automatic Hand Sanitizer, Signal processing different sensors’ data, Controlling the TurtleBot in ROS, Modeling some Mechanisms, and so on. 
+  
+  I also conducted many projects using Machine Learning Methods, such as Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
+
+url                      : "https://arash-salemi.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "arash-salemi/arash-salemi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +31,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Arash Salemi"
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Edmonton, Canada"
+  employer         : "University of Alberta"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "salemi1@ualberta.ca" 
 
   # Academic websites
   academia         : # URL
@@ -62,8 +69,8 @@ author:
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
+  lastfm           : "arash-salemi"
+  linkedin         : "arash-salemi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
