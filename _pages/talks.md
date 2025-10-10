@@ -49,7 +49,6 @@ author_profile: true
 <section class="talk-block">
   <h3><strong>Real-Time Modeling of Human Motor Learning in Robot-Aided Training</strong></h3>
   <div class="talk-meta"><em>May 9, 2025</em> · Biomedical Engineering Research Day, University of Alberta, Edmonton, Canada</div>
-  <div class="talk-authors">A. Salemi, A. Afkhami, A. H. Vette, M. Nazarahari</div>
   <div class="talk-images two">
     <img src="/images/talks/talk1.jpg" alt="Real-Time Modeling – photo 1">
     <img src="/images/talks/talk11.jpg" alt="Real-Time Modeling – photo 2">
@@ -62,7 +61,6 @@ author_profile: true
 <section class="talk-block">
   <h3><strong>Accessible Precision Healthcare: AI-Enabled Technologies for Quantitative Assessment of Motor Function & Personalized Motor Training</strong></h3>
   <div class="talk-meta"><em>October 11, 2024</em> · iSMART Talk, University of Alberta, Edmonton, Canada</div>
-  <div class="talk-authors">A. Salemi, A. Afkhami, A. H. Vette, M. Nazarahari</div>
   <div class="talk-images one">
     <img src="/images/talks/talk2.jpg" alt="Accessible Precision Healthcare – photo">
   </div>
@@ -74,7 +72,6 @@ author_profile: true
 <section class="talk-block">
   <h3><strong>Using Multi-Modal Emotion Recognition and Decision-Making Systems to Personalize Gaming Experience Based on Player Emotions</strong></h3>
   <div class="talk-meta"><em>November 12–13, 2024</em> · Alberta Robotics & Intelligent Systems Expo (Alberta RISE 2024), Edmonton, Canada</div>
-  <div class="talk-authors">A. Salemi, A. Afkhami, A. H. Vette, M. Nazarahari</div>
   <div class="talk-images two">
     <img src="/images/talks/talk3.jpg" alt="Multi-Modal Emotion Recognition – photo 1">
     <img src="/images/talks/talk33.jpg" alt="Multi-Modal Emotion Recognition – photo 2">
@@ -87,7 +84,6 @@ author_profile: true
 <section class="talk-block">
   <h3><strong>Emotion-Driven Game Personalization: Integrating Vision Transformers and Recommender Systems to Personalize User Experience</strong></h3>
   <div class="talk-meta"><em>October 25–27, 2024</em> · 25th Annual Alberta Biomedical Engineering Conference (Alberta BME 2024), Banff, Canada</div>
-  <div class="talk-authors">A. Salemi, A. Afkhami, A. H. Vette, M. Nazarahari</div>
   <div class="talk-images two">
     <img src="/images/talks/talk4.jpg" alt="Emotion-Driven Personalization – photo 1">
     <img src="/images/talks/talk44.jpg" alt="Emotion-Driven Personalization – photo 2">
@@ -100,7 +96,6 @@ author_profile: true
 <section class="talk-block">
   <h3><strong>Enhancing Engagement Level Detection During Gameplay Using a Multi-Modal Vision Transformer Model</strong></h3>
   <div class="talk-meta"><em>September 6, 2024</em> · Reverse EXPO 2024, University of Alberta, Edmonton, Canada</div>
-  <div class="talk-authors">A. Salemi, A. Afkhami, A. H. Vette, M. Nazarahari</div>
   <div class="talk-images two">
     <img src="/images/talks/talk5.jpg" alt="Engagement Detection – photo 1">
     <img src="/images/talks/talk55.jpg" alt="Engagement Detection – photo 2">
@@ -113,7 +108,6 @@ author_profile: true
 <section class="talk-block">
   <h3><strong>Integrating Webcam Image and User Log Data for Enhanced Affective State Analysis in Human-Computer Interaction During Gameplay</strong></h3>
   <div class="talk-meta"><em>August 13–15, 2024</em> · Faculty of Engineering Graduate Research Symposium (FEGRS), Edmonton, Canada</div>
-  <div class="talk-authors">A. Salemi, A. Afkhami, A. H. Vette, M. Nazarahari</div>
   <div class="talk-images two">
     <img src="/images/talks/talk6.jpg" alt="Webcam + Logs – photo 1">
     <img src="/images/talks/talk66.jpg" alt="Webcam + Logs – photo 2">
