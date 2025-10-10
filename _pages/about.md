@@ -56,22 +56,31 @@ Work Experience
 ------
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:24px 28px;">
+
   <tr>
     <!-- IDEA Lab -->
     <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
-        <img src="/images/idea_lab.png" alt="IDEA Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      <div style="
+        width:150px; height:150px; 
+        margin:0 auto 15px; 
+        display:flex; align-items:center; justify-content:center;
+        background-color:#ffffff; border:1px solid #ddd; border-radius:10px; overflow:hidden;">
+        <img src="/images/idea_lab.png" alt="IDEA Lab logo" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
       <strong><a href="https://www.goidealab.com/">IDEA Lab, University of Alberta</a></strong><br>
-      <div style="font-weight:600; margin-top:6px;">Optimizing Human-in-the-Loop Robotic Training using System Identification and Optimal Control Methods</div>
+      <div style="font-weight:600; margin-top:6px;">Optimizing Human-in-the-Loop Robotic Training using System Identification and Optimal Control</div>
       <em>2023–Present</em>
     </td>
 
     <!-- IGMR -->
     <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
-        <img src="/images/igmr.png" alt="IGMR logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      <div style="
+        width:150px; height:150px; 
+        margin:0 auto 15px; 
+        display:flex; align-items:center; justify-content:center;
+        background-color:#ffffff; border:1px solid #ddd; border-radius:10px; overflow:hidden;">
+        <img src="/images/igmr.png" alt="IGMR logo" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Internship</h3>
       <strong><a href="https://www.igmr.rwth-aachen.de/cms/~jkhpl/igmr/">IGMR Institute, RWTH Aachen</a></strong><br>
@@ -83,8 +92,12 @@ Work Experience
   <tr>
     <!-- NCBL Lab -->
     <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
-        <img src="/images/ncbl_lab.png" alt="NCBL Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      <div style="
+        width:150px; height:150px; 
+        margin:0 auto 15px; 
+        display:flex; align-items:center; justify-content:center;
+        background-color:#ffffff; border:1px solid #ddd; border-radius:10px; overflow:hidden;">
+        <img src="/images/ncbl_lab.png" alt="NCBL Lab logo" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
       <strong><a href="https://www.ncbl.ualberta.ca/">NCBL Lab, University of Alberta</a></strong><br>
@@ -94,8 +107,12 @@ Work Experience
 
     <!-- ARAS Lab -->
     <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
-        <img src="/images/aralab.png" alt="ARAS Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      <div style="
+        width:150px; height:150px; 
+        margin:0 auto 15px; 
+        display:flex; align-items:center; justify-content:center;
+        background-color:#ffffff; border:1px solid #ddd; border-radius:10px; overflow:hidden;">
+        <img src="/images/aralab.png" alt="ARAS Lab logo" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
       <strong><a href="https://aras.kntu.ac.ir/">ARAS Lab, K. N. Toosi University</a></strong><br>
@@ -103,4 +120,5 @@ Work Experience
       <em>2021–2023</em>
     </td>
   </tr>
+
 </table>
