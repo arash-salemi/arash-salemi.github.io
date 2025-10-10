@@ -55,8 +55,6 @@ Education
 Work Experience
 ------
 
-<h2 align="center">Research & Work Experience</h2>
-
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:24px 28px;">
   <tr>
     <!-- IDEA Lab -->
