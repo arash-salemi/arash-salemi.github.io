@@ -36,17 +36,17 @@ Education
       <img src="/images/ualberta.png" width="90"><br>
       <h3>M.Sc. in Mechanical Engineering</h3>
       <p><strong><a href="https://www.ualberta.ca/">University of Alberta</a></strong><br>
-      2022 – Present | Edmonton, Canada<br>
+      2023 – Present | Edmonton, Canada<br>
       GPA: 4.0 / 4.0<br>
-      <em>Skills:</em> Mechatronics, Digital Signal Processing, Biomechanics, System Dynamics, Machine Learning</p>
+      # <em>Skills:</em> Mechatronics, Digital Signal Processing, Biomechanics, System Dynamics, Machine Learning</p>
     </td>
     <td align="center" width="50%">
       <img src="/images/kntu.png" width="90"><br>
       <h3>B.Sc. in Mechanical Engineering</h3>
       <p><strong><a href="https://www.kntu.ac.ir/">K. N. Toosi University of Technology</a></strong><br>
-      2016 – 2020 | Tehran, Iran<br>
-      GPA: 18.36 / 20<br>
-      <em>Skills:</em> Image Processing, Radiomics, Machine Learning, MRI</p>
+      2017 – 2022 | Tehran, Iran<br>
+      GPA: 3.59 / 4<br>
+    # <!-- <em>Skills:</em> Modeling and Control of a Quadrotor with Reinforcement Learning and PID Controllers</p> -->
     </td>
   </tr>
 </table>
