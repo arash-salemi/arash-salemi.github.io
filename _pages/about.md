@@ -15,42 +15,37 @@ I also conducted many projects using Machine Learning Methods, such as Human Act
 
 Honors and Awards
 ======
-- **University of Alberta Education Abroad Award**
-- **RWTH Aachen – University of Alberta Junior Research Fellowship**
-- **CREATE PD Scholarship for Distinguished Honorary CREATE Students**
-- **Ranked 1st in the Mechanical Engineering Department (GPA: 4/4), University of Alberta**
-- **Graduate Students’ Association (GSA) Travel Award**
-- **University of Ottawa Admission with Financial Support** *(Declined)*
-- **University of Windsor International Admission** *(Declined)*
-- **Concordia University International Admission** *(Declined)*
-- **Ranked Top 20% in the Mechanical Engineering Department, K. N. Toosi University of Technology**
+- *University of Alberta Education Abroad Award*
+- **RWTH Aachen – University of Alberta Junior Research Fellowship*
+- **CREATE PD Scholarship for Distinguished Honorary CREATE Students*
+- **Ranked 1st in the Mechanical Engineering Department (GPA: 4/4), University of Alberta*
+- **Graduate Students’ Association (GSA) Travel Award*
+- **University of Ottawa Admission with Financial Support* *(Declined)*
+- *University of Windsor International Admission** *(Declined)*
+- *Concordia University International Admission** *(Declined)*
+- *Ranked Top 20% in the Mechanical Engineering Department, K. N. Toosi University of Technology**
 
 Education
 ------
 
-{% raw %}
-<h2 align="center">Education</h2>
+<div style="display:flex; gap:40px; flex-wrap:wrap; justify-content:center; align-items:flex-start;">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="/images/ualberta.png" width="130"><br><br>
-      <h3><strong>M.Sc. in Mechanical Engineering</strong></h3>
-      <p><a href="https://www.ualberta.ca/"><strong>University of Alberta</strong></a><br>
-      2023 – Present&nbsp; | &nbsp;Edmonton, Canada<br>
-      <strong>GPA:</strong> 4.0 / 4.0<br>
-      <em>Skills:</em> Mechatronics, Digital Signal Processing, Biomechanics,<br>
-      System Dynamics, Machine Learning</p>
-    </td>
+  <div style="flex:1 1 380px; max-width:520px; text-align:center; border:1px solid #e5e5e5; padding:24px; border-radius:10px;">
+    <img src="/images/ualberta.png" width="140" alt="University of Alberta logo"><br><br>
+    <h3><strong>M.Sc. in Mechanical Engineering</strong></h3>
+    <p><a href="https://www.ualberta.ca/"><strong>University of Alberta</strong></a><br>
+    2023 – Present · Edmonton, Canada<br>
+    <strong>GPA:</strong> 4.0 / 4.0</p>
+    <p><em>Skills:</em> Mechatronics, Digital Signal Processing, Biomechanics, System Dynamics, Machine Learning</p>
+  </div>
 
-    <td align="center" width="50%">
-      <img src="/images/kntu.png" width="130"><br><br>
-      <h3><strong>B.Sc. in Mechanical Engineering</strong></h3>
-      <p><a href="https://www.kntu.ac.ir/"><strong>K. N. Toosi University of Technology</strong></a><br>
-      2017 – 2022&nbsp; | &nbsp;Tehran, Iran<br>
-      <strong>GPA:</strong> 3.59 / 4.0<br>
-      <em>Skills:</em> Image Processing, Radiomics, Machine Learning, MRI</p>
-    </td>
-  </tr>
-</table>
-{% endraw %}
+  <div style="flex:1 1 380px; max-width:520px; text-align:center; border:1px solid #e5e5e5; padding:24px; border-radius:10px;">
+    <img src="/images/kntu.png" width="140" alt="K. N. Toosi University logo"><br><br>
+    <h3><strong>B.Sc. in Mechanical Engineering</strong></h3>
+    <p><a href="https://www.kntu.ac.ir/"><strong>K. N. Toosi University of Technology</strong></a><br>
+    2017 – 2022 · Tehran, Iran<br>
+    <strong>GPA:</strong> 3.59 / 4.0</p>
+    <p><em>Skills:</em> Image Processing, Radiomics, Machine Learning, MRI</p>
+  </div>
+
+</div>
