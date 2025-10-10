@@ -27,30 +27,44 @@ Honors and Awards
 
 Education
 ------
-{% raw %}
 
-<table>
+<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:24px 28px;">
+
   <tr>
-    <td align="center" width="50%">
-      <img src="/images/ualberta.png" width="160">
-      <h3><strong>M.Sc. in Mechanical Engineering</strong></h3>
-      <p><a href="https://www.ualberta.ca/"><strong>University of Alberta</strong></a><br>
-      2023 – Present&nbsp; | &nbsp;Edmonton, Canada<br>
+    <!-- University of Alberta -->
+    <td style="vertical-align:top; width:50%; text-align:center;">
+      <div style="
+        width:150px; height:150px; 
+        margin:0 auto 15px; 
+        display:flex; align-items:center; justify-content:center;
+        background-color:#ffffff; border:1px solid #ddd; border-radius:10px; overflow:hidden;">
+        <img src="/images/ualberta.png" alt="University of Alberta logo" style="width:100%; height:100%; object-fit:contain;">
+      </div>
+      <h3 style="margin:6px 0 4px;"><strong>M.Sc. in Mechanical Engineering</strong></h3>
+      <a href="https://www.ualberta.ca/"><strong>University of Alberta</strong></a><br>
+      <em>2023 – Present · Edmonton, Canada</em><br>
       <strong>GPA:</strong> 4.0 / 4.0<br>
-      <em>Skills:</em> Robotics, System Identification, Optimal Control, Reinforcement Learning, ViT, LMM </p>
+      <em>Skills:</em> Robotics, System Identification, Optimal Control, Reinforcement Learning, ViT, LMM
     </td>
 
-    <td align="center" width="50%">
-      <img src="/images/kntu.png" width="130" style="margin-bottom:10px;">
-      <h3><strong>B.Sc. in Mechanical Engineering</strong></h3>
-      <p><a href="https://www.kntu.ac.ir/"><strong>K. N. Toosi University of Technology</strong></a><br>
-      2017 – 2022&nbsp; | &nbsp;Tehran, Iran<br>
+    <!-- K. N. Toosi University -->
+    <td style="vertical-align:top; width:50%; text-align:center;">
+      <div style="
+        width:150px; height:150px; 
+        margin:0 auto 15px; 
+        display:flex; align-items:center; justify-content:center;
+        background-color:#ffffff; border:1px solid #ddd; border-radius:10px; overflow:hidden;">
+        <img src="/images/kntu.png" alt="K. N. Toosi University logo" style="width:100%; height:100%; object-fit:contain;">
+      </div>
+      <h3 style="margin:6px 0 4px;"><strong>B.Sc. in Mechanical Engineering</strong></h3>
+      <a href="https://www.kntu.ac.ir/"><strong>K. N. Toosi University of Technology</strong></a><br>
+      <em>2017 – 2022 · Tehran, Iran</em><br>
       <strong>GPA:</strong> 3.59 / 4.0<br>
-      <em>Skills:</em> Quadrotor, Reinforcement Learning, Control systems, Machine Learning</p>
+      <em>Skills:</em> Quadrotor, Reinforcement Learning, Control Systems, Machine Learning
     </td>
   </tr>
+
 </table>
-{% endraw %}
 
 Profossional Experience
 ------
