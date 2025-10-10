@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently pursuing my M.Sc. in Mechanical Engineering at the IDEA Lab, University of Alberta, under the supervision of Dr. Milad Nazarahari and Dr. Albert Vette. The objective of my current research is to apply principles of optimal control, state estimation, neuroscience, and reinforcement learning to optimize learning during robotic rehabilitation.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+In past years, I have worked on a variety of projects, such as developing MPC controllers for path tracking, employing reinforcement learning for quadrotor control, designing fuzzy logic and PID controllers for mobile robots, Analyzing a 7-DOF Vehicle Vibration Model, Manufacturing Automatic Hand Sanitizer, Signal processing different sensors’ data, Controlling the TurtleBot in ROS, Modeling some Mechanisms, and so on. 
+
+I also conducted many projects using Machine Learning Methods, such as Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
+
+Feel free to contact me: salemi1@ualberta.ca
 
 A data-driven personal website
 ======
