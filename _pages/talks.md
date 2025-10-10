@@ -82,7 +82,7 @@ author_profile: true
   <div class="talk-meta">November 12–13, 2024 . Alberta Robotics & Intelligent Systems Expo (Alberta RISE 2024), Edmonton, Canada</div>
   <div class="talk-images two">
     <img src="/images/talks/talk5.jpg" alt="Talk 3 photo 1">
-    <img src="/images/talks/talk55.jpg" alt="Talk 3 photo 2">
+    <img src="/images/talks/talk 55.jpg" alt="Talk 3 photo 2">
   </div>
 </section>
 
