@@ -29,7 +29,7 @@ author_profile: true
 /* Uniform photo frames (no cropping of content) */
 .frame{
   position: relative;
-  aspect-ratio: 3 / 4;            /* change to 3/2 or 16/9 if you prefer */
+  aspect-ratio: 4 / 4;            /* change to 3/2 or 16/9 if you prefer */
   background:#fff;
   border-radius:12px;
   box-shadow: 0 2px 10px rgba(0,0,0,.12);
