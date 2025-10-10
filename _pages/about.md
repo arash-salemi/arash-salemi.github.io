@@ -59,48 +59,42 @@ Work Experience
   <tr>
     <!-- IDEA Lab -->
     <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+      <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
         <img src="/images/idea_lab.png" alt="IDEA Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
-      <p><a href="https://www.goidealab.com/"><strong>IDEA Lab, University of Alberta</strong></a><br>
-      <div style="font-weight:600; margin-bottom:4px;">Optimizing Human-in-the-Loop Robotic Training using System Identification and Optimal Control Methods</div>
-      <div><em>2023–Present</em></div>
+      <strong><a href="https://www.goidealab.com/">IDEA Lab, University of Alberta</a></strong><br>
+      <div style="font-weight:600; margin-top:6px;">Optimizing Human-in-the-Loop Robotic Training using System Identification and Optimal Control Methods</div>
+      <em>2023–Present</em>
     </td>
+
     <!-- IGMR -->
     <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+      <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
         <img src="/images/igmr.png" alt="IGMR logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Internship</h3>
-      <p><a href="https://www.igmr.rwth-aachen.de/cms/~jkhpl/igmr/"><strong>IGMR Institute, RWTH Aachen</strong></a><br>
-      <div style="font-weight:600; margin-bottom:4px;">ROS 2 Trajectory Tracking Controller for the Paragrip Parallel Robot</div>
-      <div><em>Summer 2025</em></div>
+      <strong><a href="https://www.igmr.rwth-aachen.de/cms/~jkhpl/igmr/">IGMR Institute, RWTH Aachen</a></strong><br>
+      <div style="font-weight:600; margin-top:6px;">ROS 2 Trajectory Tracking Controller for the Paragrip Parallel Robot</div>
+      <em>Summer 2025</em>
     </td>
-
   </tr>
 
   <tr>
     <!-- NCBL Lab -->
     <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+      <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
         <img src="/images/ncbl_lab.png" alt="NCBL Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Research Assistant</h3>
-      <p><a href="https://www.ncbl.ualberta.ca/"><strong>NCBL Lab, University of Alberta</strong></a><br>
-      <div style="font-weight:600; margin-bottom:4px;">Adaptive Robot Game Personalization via Emotion Recognition and Intelligent Decision-Making</div>
-      <div><em>2023–2025</em></div>
+      <strong><a href="https://www.ncbl.ualberta.ca/">NCBL Lab, University of Alberta</a></strong><br>
+      <div style="font-weight:600; margin-top:6px;">Adaptive Robot Game Personalization via Emotion Recognition and Intelligent Decision-Making</div>
+      <em>2023–2025</em>
     </td>
 
     <!-- ARAS Lab -->
     <td style="vertical-align:top; width:50%; text-align:center;">
-      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+      <div style="width:120px; height:120px; margin:0 auto 15px; display:flex; align-items:center; justify-content:center;">
         <img src="/images/aralab.png" alt="ARAS Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
       </div>
-      <h3 style="margin:6px 0 4px;">Research Assistant</h3>
-      <p><a href="https://aras.kntu.ac.ir/"><strong>ARAS Lab, K. N. Toosi Univ.</strong></a><br>
-      <div style="font-weight:600; margin-bottom:4px;">Reinforcement Learning–Based Quadrotor Control and Optimization</div>
-      <div><em>2021–2023</em></div>
-    </td>
-  </tr>
-</table>
+      <
