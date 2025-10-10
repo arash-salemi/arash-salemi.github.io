@@ -7,7 +7,6 @@ excerpt: 'This study presents a real-time estimation framework for modelling ind
 date: 2025-10-09
 venue: 'Computers in Biology and Medicine'
 paperurl: 'https://doi.org/10.1016/j.compbiomed.2025.111198'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: "A. Salemi, A. Afkhami Ardekani, A. H. Vette, M. Nazarahari. (2025). <i>Toward personalized human-in-the-loop training: Real-time estimation of individual motor learning dynamics using the dual-rate model.</i> <i>Computers in Biology and Medicine</i>, 198, 111198. https://doi.org/10.1016/j.compbiomed.2025.111198"
 ---
 Previous studies have shown that the dual-rate model, a stochastic framework comprising a multi-state slowlearning, slow-forgetting process and a single-state fast-learning, fast-forgetting process, can predict motor outputs in paradigms including spontaneous recovery and anterograde interference. However, existing methods for estimating the model’s states and parameters, including the Expectation Maximization algorithm, operate offline and require the entire behavioural dataset. Furthermore, prior work has typically used average group performance, neglecting individual differences in learning and forgetting rates. Here, we have developed online system identification approaches using Joint Extended Kalman Filter (JEKF) and Moving Horizon Estimation
