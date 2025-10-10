@@ -57,42 +57,48 @@ Work Experience
 
 <h2 align="center">Research & Work Experience</h2>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
+<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:24px 28px;">
+  <tr>
+    <!-- IDEA Lab -->
+    <td style="vertical-align:top; width:50%; text-align:center;">
+      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/idea_lab.png" alt="IDEA Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      </div>
+      <h3 style="margin:6px 0 4px;">Research Assistant</h3>
+      <div style="font-weight:600; margin-bottom:4px;">Optimizing Human-in-the-Loop Robotic Training</div>
+      <div><strong>IDEA Lab</strong>, University of Alberta — <em>2023–Present</em></div>
+    </td>
 
-  <!-- IDEA Lab -->
-  <div style="flex:1 1 300px; max-width:400px; text-align:center;">
-    <img src="/images/idea_lab.png" width="110" style="margin-bottom:15px;">
-    <h3 style="margin:5px 0;">Research Assistant</h3>
-    <p><strong>IDEA Lab</strong><br>
-    University of Alberta, Canada<br>
-    <em>2023 – Present</em></p>
-  </div>
+    <!-- NCBL Lab -->
+    <td style="vertical-align:top; width:50%; text-align:center;">
+      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/ncbl_lab.png" alt="NCBL Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      </div>
+      <h3 style="margin:6px 0 4px;">Research Assistant</h3>
+      <div style="font-weight:600; margin-bottom:4px;">Adaptive Robot Game Personalization (Emotion-Aware)</div>
+      <div><strong>NCBL Lab</strong>, University of Alberta — <em>2023–2025</em></div>
+    </td>
+  </tr>
 
-  <!-- NCBL Lab -->
-  <div style="flex:1 1 300px; max-width:400px; text-align:center;">
-    <img src="/images/ncbl_lab.png" width="110" style="margin-bottom:15px;">
-    <h3 style="margin:5px 0;">Research Assistant</h3>
-    <p><strong>NCBL Lab</strong><br>
-    University of Alberta, Canada<br>
-    <em>2023 – 2025</em></p>
-  </div>
+  <tr>
+    <!-- IGMR -->
+    <td style="vertical-align:top; width:50%; text-align:center;">
+      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/igmr.png" alt="IGMR logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      </div>
+      <h3 style="margin:6px 0 4px;">Intern</h3>
+      <div style="font-weight:600; margin-bottom:4px;">ROS 2 Trajectory Tracking for Paragrip</div>
+      <div><strong>IGMR Institute</strong>, RWTH Aachen — <em>Summer 2025</em></div>
+    </td>
 
-  <!-- IGMR Institute -->
-  <div style="flex:1 1 300px; max-width:400px; text-align:center;">
-    <img src="/images/igmr.png" width="110" style="margin-bottom:15px;">
-    <h3 style="margin:5px 0;">Intern</h3>
-    <p><strong>IGMR Institute</strong><br>
-    RWTH Aachen University, Germany<br>
-    <em>Summer 2025</em></p>
-  </div>
-
-  <!-- ARAS Lab -->
-  <div style="flex:1 1 300px; max-width:400px; text-align:center;">
-    <img src="/images/aralab.png" width="110" style="margin-bottom:15px;">
-    <h3 style="margin:5px 0;">Research Assistant</h3>
-    <p><strong>ARAS Lab</strong><br>
-    K. N. Toosi University of Technology, Iran<br>
-    <em>2021 – 2023</em></p>
-  </div>
-
-</div>
+    <!-- ARAS Lab -->
+    <td style="vertical-align:top; width:50%; text-align:center;">
+      <div style="width:120px; height:120px; margin:0 auto 12px; display:flex; align-items:center; justify-content:center;">
+        <img src="/images/aralab.png" alt="ARAS Lab logo" style="max-width:100%; max-height:100%; object-fit:contain;">
+      </div>
+      <h3 style="margin:6px 0 4px;">Research Assistant</h3>
+      <div style="font-weight:600; margin-bottom:4px;">RL-Based Quadrotor Control & Optimization</div>
+      <div><strong>ARAS Lab</strong>, K. N. Toosi Univ. — <em>2021–2023</em></div>
+    </td>
+  </tr>
+</table>
