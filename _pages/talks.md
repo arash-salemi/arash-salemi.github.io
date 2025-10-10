@@ -108,7 +108,7 @@ author_profile: true
   <div class="talk-meta">October 25–27, 2024</div>
   <div class="talk-meta">25th Annual Alberta Biomedical Engineering Conference (Alberta BME 2024), Banff, Canada</div>
   <div class="talk-images two">
-    <img src="/images/talks/talk2.jpg" alt="Talk 4 photo 1">
+    <img src="/images/talks/talk3.jpg" alt="Talk 4 photo 1">
     <img src="/images/talks/talk33.jpg" alt="Talk 4 photo 2">
   </div>
 </section>
