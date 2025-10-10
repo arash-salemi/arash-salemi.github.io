@@ -26,7 +26,7 @@ Honors and Awards
 - *Ranked Top 20% in the Mechanical Engineering, K. N. Toosi University of Technology*
 
 Education
-------
+======
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:24px 28px;">
 
@@ -67,7 +67,7 @@ Education
 </table>
 
 Profossional Experience
-------
+======
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:24px 28px;">
 
