@@ -23,7 +23,7 @@ Honors and Awards
 - *University of Ottawa Admission with Financial Support (Declined)*
 - *University of Windsor International Admission (Declined)*
 - *Concordia University International Admission (Declined)*
-- *Ranked Top 20% in the Mechanical Engineering Department, K. N. Toosi University of Technology*
+- *Ranked Top 20% in the Mechanical Engineering, K. N. Toosi University of Technology*
 
 Education
 ------
