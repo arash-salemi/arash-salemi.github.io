@@ -5,28 +5,30 @@ permalink: /talks/
 author_profile: true
 ---
 
-
-<!-- Slideshow: put this above your talks list -->
+<!-- Slideshow for Talks Page -->
 <style>
 .slideshow {
   position: relative;
-  max-width: 1000px;
-  margin: 0 auto 32px;
+  width: 75%;               /* smaller than full width */
+  margin: 0 auto 32px;      /* center horizontally with bottom gap */
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,.12);
+  box-shadow: 0 4px 12px rgba(0,0,0,.15);
   background: #000;
 }
 .slideshow img {
   width: 100%;
   height: auto;
-  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
 }
 .slideshow img.active {
-  display: block;
-  animation: fade 1s ease-in-out;
+  opacity: 1;
+  position: relative;
 }
-@keyframes fade { from {opacity: 0} to {opacity: 1} }
 </style>
 
 <div class="slideshow" id="talks-slideshow">
@@ -37,16 +39,15 @@ author_profile: true
 </div>
 
 <script>
-(function(){
-  const box = document.getElementById('talks-slideshow');
-  const slides = box.querySelectorAll('img');
+document.addEventListener("DOMContentLoaded", function() {
+  const slides = document.querySelectorAll("#talks-slideshow img");
   let i = 0;
   setInterval(() => {
-    slides[i].classList.remove('active');
+    slides[i].classList.remove("active");
     i = (i + 1) % slides.length;
-    slides[i].classList.add('active');
-  }, 4000); // change every 4 seconds
-})();
+    slides[i].classList.add("active");
+  }, 4000); // Change every 4 seconds
+});
 </script>
 
 
