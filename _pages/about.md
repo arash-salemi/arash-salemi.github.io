@@ -80,7 +80,7 @@ Profossional Experience
         margin:0 auto 15px; 
         display:flex; align-items:center; justify-content:center;
         background-color:#ffffff; border:1px solid #ddd; border-radius:10px; overflow:hidden;">
-        <img src="/images/igmr.png" alt="IGMR logo" style="width:100%; height:100%; object-fit:contain;">
+        <img src="/images/igmr1.png" alt="IGMR logo" style="width:100%; height:100%; object-fit:contain;">
       </div>
       <h3 style="margin:6px 0 4px;">Internship</h3>
       <strong><a href="https://www.igmr.rwth-aachen.de/cms/~jkhpl/igmr/">IGMR Institute, RWTH Aachen</a></strong><br>
