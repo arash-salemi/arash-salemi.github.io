@@ -78,34 +78,36 @@ author_profile: true
 
 <!-- 2024 — Talk 2 -->
 <section class="talk-block">
-  <h3>Accessible Precision Healthcare: AI-Enabled Technologies for Quantitative Assessment of Motor Function & Personalized Motor Training</h3>
-  <div class="talk-meta">October 11, 2024 . iSMART Talk, University of Alberta, Edmonton, Canada</div>
+  <h3>Using Multi-Modal Emotion Recognition and Decision-Making Systems to Personalize Gaming Experience Based on Player Emotions</h3>
+  <div class="talk-meta">November 12–13, 2024 . Alberta Robotics & Intelligent Systems Expo (Alberta RISE 2024), Edmonton, Canada</div>
   <div class="talk-images two">
-    <img src="/images/talks/talk5.jpg" alt="Talk 2 photo 1">
-    <img src="/images/talks/talk55.jpg" alt="Talk 2 photo 2">
+    <img src="/images/talks/talk5.jpg" alt="Talk 3 photo 1">
+    <img src="/images/talks/talk55.jpg" alt="Talk 3 photo 2">
   </div>
 </section>
+
 <hr>
 
 <!-- 2024 — Talk 3 -->
 <section class="talk-block">
-  <h3>Using Multi-Modal Emotion Recognition and Decision-Making Systems to Personalize Gaming Experience Based on Player Emotions</h3>
-  <div class="talk-meta">November 12–13, 2024 . Alberta Robotics & Intelligent Systems Expo (Alberta RISE 2024), Edmonton, Canada</div>
+  <h3>Emotion-Driven Game Personalization: Integrating Vision Transformers and Recommender Systems to Personalize User Experience</h3>
+  <div class="talk-meta">October 25–27, 2024 . 25th Annual Alberta Biomedical Engineering Conference (Alberta BME 2024), Banff, Canada</div>
   <div class="talk-images two">
-    <img src="/images/talks/talk4.jpg" alt="Talk 3 photo 1">
-    <img src="/images/talks/talk44.jpg" alt="Talk 3 photo 2">
+    <img src="/images/talks/talk4.jpg" alt="Talk 4 photo 1">
+    <img src="/images/talks/talk44.jpg" alt="Talk 4 photo 2">
   </div>
 </section>
 
 <hr>
 
+
 <!-- 2024 — Talk 4 -->
 <section class="talk-block">
-  <h3>Emotion-Driven Game Personalization: Integrating Vision Transformers and Recommender Systems to Personalize User Experience</h3>
-  <div class="talk-meta">October 25–27, 2024 . 25th Annual Alberta Biomedical Engineering Conference (Alberta BME 2024), Banff, Canada</div>
+  <h3>Accessible Precision Healthcare: AI-Enabled Technologies for Quantitative Assessment of Motor Function & Personalized Motor Training</h3>
+  <div class="talk-meta">October 11, 2024 . iSMART Talk, University of Alberta, Edmonton, Canada</div>
   <div class="talk-images two">
-    <img src="/images/talks/talk3.jpg" alt="Talk 4 photo 1">
-    <img src="/images/talks/talk33.jpg" alt="Talk 4 photo 2">
+    <img src="/images/talks/talk3.jpg" alt="Talk 2 photo 1">
+    <img src="/images/talks/talk33.jpg" alt="Talk 2 photo 2">
   </div>
 </section>
 
