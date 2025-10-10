@@ -5,51 +5,48 @@ permalink: /talks/
 author_profile: true
 ---
 
-<!-- Slideshow for Talks Page -->
+<!-- Pure CSS slideshow (no JS) -->
 <style>
 .slideshow {
   position: relative;
-  width: 50%;               /* now 50% of the content width */
-  margin: 0 auto 32px;      /* center and add bottom spacing */
+  width: 50%;              /* make it smaller (was 75%) */
+  margin: 0 auto 32px;     /* center + spacing below */
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,.15);
   background: #000;
 }
 .slideshow img {
+  position: absolute;
+  inset: 0;                /* top:0; right:0; bottom:0; left:0 */
   width: 100%;
   height: auto;
-  position: absolute;
-  top: 0;
-  left: 0;
   opacity: 0;
-  transition: opacity 1s ease-in-out;
+  animation: slideCycle 20s infinite; /* 4 images × 5s each = 20s */
 }
-.slideshow img.active {
-  opacity: 1;
-  position: relative;
+
+/* Stagger the start time for each image */
+.slideshow img:nth-child(1) { animation-delay: 0s;  }
+.slideshow img:nth-child(2) { animation-delay: 5s;  }
+.slideshow img:nth-child(3) { animation-delay: 10s; }
+.slideshow img:nth-child(4) { animation-delay: 15s; }
+
+/* Fade in (0–1s), show (1–4s), fade out (4–5s), stay hidden otherwise */
+@keyframes slideCycle {
+  0%   { opacity: 0; }
+  5%   { opacity: 1; }
+  25%  { opacity: 1; }
+  30%  { opacity: 0; }
+  100% { opacity: 0; }
 }
 </style>
 
-<div class="slideshow" id="talks-slideshow">
-  <img src="/images/talks/talk1.jpg" alt="Presentation 1" class="active">
+<div class="slideshow">
+  <img src="/images/talks/talk1.jpg" alt="Presentation 1">
   <img src="/images/talks/talk2.jpg" alt="Presentation 2">
   <img src="/images/talks/talk3.jpg" alt="Presentation 3">
   <img src="/images/talks/talk4.jpg" alt="Presentation 4">
 </div>
-
-<script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", function() {
-    const slides = document.querySelectorAll("#talks-slideshow img");
-    if (!slides.length) return;
-    let i = 0;
-    setInterval(function() {
-      slides[i].classList.remove("active");
-      i = (i + 1) % slides.length;
-      slides[i].classList.add("active");
-    }, 4000); // switch every 4 seconds
-  });
-</script>
 
 
 **Real-Time Modeling of Human Motor Learning in Robot-Aided Training**  
