@@ -9,8 +9,8 @@ author_profile: true
 <style>
 .slideshow {
   position: relative;
-  width: 75%;               /* smaller than full width */
-  margin: 0 auto 32px;      /* center horizontally with bottom gap */
+  width: 50%;               /* now 50% of the content width */
+  margin: 0 auto 32px;      /* center and add bottom spacing */
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,.15);
@@ -38,16 +38,17 @@ author_profile: true
   <img src="/images/talks/talk4.jpg" alt="Presentation 4">
 </div>
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const slides = document.querySelectorAll("#talks-slideshow img");
-  let i = 0;
-  setInterval(() => {
-    slides[i].classList.remove("active");
-    i = (i + 1) % slides.length;
-    slides[i].classList.add("active");
-  }, 4000); // Change every 4 seconds
-});
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function() {
+    const slides = document.querySelectorAll("#talks-slideshow img");
+    if (!slides.length) return;
+    let i = 0;
+    setInterval(function() {
+      slides[i].classList.remove("active");
+      i = (i + 1) % slides.length;
+      slides[i].classList.add("active");
+    }, 4000); // switch every 4 seconds
+  });
 </script>
 
 
