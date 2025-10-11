@@ -57,13 +57,13 @@ With over four years of experience, I integrate system identification, optimizat
   <p><strong>Sensors:</strong> Shimmer3 GSR, Depth Camera</p>
   <p><strong>Robotic System:</strong> Kinarm (BKIN Technologies Ltd., Canada).</p>
     
-<div style="display: flex; flex-direction: column; align-items: center; gap: 24px;">
+<div style="text-align: center;">
 
-  <div class="frame" style="width:60%;">
+  <div class="frame" style="display: inline-block; width:60%; margin-bottom: 24px;">
     <img src="/images/portfolio/ncbl3.jpg" alt="NCBL architecture diagram">
   </div>
 
-  <div class="frame" style="width:60%;">
+  <div class="frame" style="display: inline-block; width:60%;">
     <img src="/images/portfolio/ncbl2.jpg" alt="NCBL architecture diagram">
   </div>
 
