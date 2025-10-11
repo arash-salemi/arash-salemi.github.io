@@ -21,6 +21,13 @@ Over the years, I have worked on a broad range of projects in robotics, control,
 
 I also conducted many projects using Machine Learning Methods, such as Emotion Recognition using Vision Transformers (ViT), Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
 
+<div class="talk-images">
+  <div class="img-grid two">
+    <div class="frame"><img src="/images/talks/talk6.jpg" alt="FEGRS talk - photo 1" loading="lazy"></div>
+    <div class="frame"><img src="/images/talks/talk6666.jpg" alt="FEGRS talk - photo 2" loading="lazy"></div>
+  </div>
+</div>
+
 Honors and Awards
 ======
 - *University of Alberta Education Abroad Award*
