@@ -26,8 +26,7 @@ With over four years of experience, I integrate system identification, optimizat
   <p><strong>Tools:</strong> MATLAB/Simulink, C++, Kinarm, Quanser 2D planar robot.</p>
 
   <div class="img-grid two">
-    <div class="frame"><img src="/images/portfolio/idea1.jpg" alt="IDEA Lab framework"></div>
-    <div class="frame"><img src="/images/portfolio/idea2.jpg" alt="IDEA Lab Kinarm experiment"></div>
+    <div class="frame"><img src="/images/portfolio/idea.jpg" alt="IDEA Lab framework"></div>
   </div>
 </section>
 
