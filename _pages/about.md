@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my M.Sc. in Mechanical Engineering at the IDEA Lab, University of Alberta, under the supervision of 
+I am currently pursuing my M.Sc. in Mechanical Engineering at 
+<a href="https://www.goidealab.com/" target="_blank">the IDEA Lab</a>
+, 
+<a href="https://www.ualberta.ca/" target="_blank">University of Alberta</a>
+, under the supervision of 
 <a href="https://apps.ualberta.ca/directory/person/nazaraha" target="_blank">Dr. Milad Nazarahari</a>
 and 
 <a href="https://apps.ualberta.ca/directory/person/vette" target="_blank">Dr. Albert Vette</a>
