@@ -20,10 +20,10 @@ With over four years of experience, I integrate system identification, optimizat
 <section class="portfolio-block">
   <h3>IDEA Lab — Robotics Research Assistant <span style="font-weight:normal;">(2023 – now)</span></h3>
   <p><strong>Objective:</strong> Delivering optimal personalized robotic training using online system identification and optimal control methods.</p>
-  <p><strong>Methods:</strong> Implemented Joint Extended Kalman Filter (JEKF) and Moving Horizon Estimation (MHE) for real-time state and parameter estimation in upper-limb motor learning. 
-  Developed Model Predictive Control (MPC) and Linear Quadratic Regulator (LQR) frameworks for personalized robotic rehabilitation scheduling.</p>
-  <p><strong>Outcome:</strong> Created individualized motor learning models and optimized training schedules per participant, achieving improved learning rates and long-term retention.</p>
-  <p><strong>Tools:</strong> MATLAB/Simulink, C++, Kinarm, Quanser 2D planar robot.</p>
+  <p><strong>Methods:</strong> Employed Joint Extended Kalman Filter (JEKF) and Moving Horizon Estimation (MHE) for real-time state and parameter estimation of upper arm motor learning, facilitating personalized rehabilitation. Developed optimal control techniques, including Model Predictive Control (MPC) and Linear Quadratic Regulator (LQR) methods, to enable real-time, personalized task scheduling in robotic training</p>
+  <p><strong>Outcome:</strong> Derived individualized motor learning models and optimized training schedules in real-time for each participant. Derived individualized motor learning models and optimized training schedules in real-time for each participant. Participants trained under this adaptive framework demonstrated higher learning rates and superior long-term retention compared to the control.</p>
+  <p><strong>Coding:</strong> MATLAB/Simulink, C++, Python.</p>
+  <p><strong>Robotic Systems:</strong> Kinarm (BKIN Technologies Ltd., Canada), Quanser 2D planar robot (Quanser, Canada).</p>
 
   <div class="img-grid two">
     <div class="frame"><img src="/images/portfolio/idea.jpg" alt="IDEA Lab framework"></div>
