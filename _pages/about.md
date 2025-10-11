@@ -17,23 +17,42 @@ and
 <a href="https://apps.ualberta.ca/directory/person/vette" target="_blank">Dr. Albert Vette</a>
 . The objective of my current research is to apply principles of optimal control, state estimation, neuroscience, and reinforcement learning to optimize learning during robotic training.
 
-Over the years, I have worked on a broad range of projects in robotics, control, and machine learning. These include developing ROS 2 Trajectory Tracking Controller for the Paragrip Parallel Robot, implementing reinforcement learning algorithms for Kuka arm object-grasping, developing data-driven MPC controllers for vehivle path tracking, implementing reinforcement-learning based quadrotor control, and designing fuzzy logic and PID controllers for mobile robots.
-
-I also conducted many projects using Machine Learning Methods, such as Emotion Recognition using Vision Transformers (ViT), Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
-
 <style>
-  /* Force two columns even on mobile for this gallery */
+  /* force 2 columns everywhere for this gallery */
   .img-grid.two.no-stack{
     display:grid !important;
     grid-template-columns:repeat(2,minmax(0,1fr)) !important;
     gap:14px !important;
+    align-items:stretch !important;
+  }
+
+  /* uniform frames (same as your original) */
+  .frame{
+    position:relative;
+    aspect-ratio:4/4;            /* square; change to 3/2 or 16/9 if you want */
+    background:#fff;
+    border-radius:12px;
+    box-shadow:0 2px 10px rgba(0,0,0,.12);
+    overflow:hidden;
+  }
+  .frame img{
+    position:absolute; inset:0;
+    width:100%; height:100%;
+    object-fit:contain;          /* no cropping, full image fits inside */
+    display:block;
   }
 </style>
 
+
+<!-- drop this where you want the 2-tile gallery -->
 <div class="talk-images">
   <div class="img-grid two no-stack">
-    <div class="frame"><img src="/images/talks/talk33.jpg" alt="" loading="lazy"></div>
-    <div class="frame"><img src="/images/talks/talk55.jpg" alt="" loading="lazy"></div>
+    <div class="frame">
+      <img src="/images/talks/talk33.jpg" alt="" loading="lazy">
+    </div>
+    <div class="frame">
+      <img src="/images/talks/talk55.jpg" alt="" loading="lazy">
+    </div>
   </div>
 </div>
 
