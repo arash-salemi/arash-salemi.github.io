@@ -88,6 +88,7 @@ author_profile: true
   <li><strong>Engineering Software:</strong> SolidWorks, AutoCAD, MSC.ADAMS</li>
 </ul>
 
+<hr>
 
 <h2>Selected Projects</h2>
 
