@@ -59,11 +59,11 @@ With over four years of experience, I integrate system identification, optimizat
     
 <div style="text-align: center;">
 
-  <div class="frame" style="display: inline-block; width:60%; margin-bottom: 24px;">
+  <div class="frame" style="display: inline-block; width:100%; margin-bottom: 24px;">
     <img src="/images/portfolio/ncbl3.jpg" alt="NCBL architecture diagram">
   </div>
 
-  <div class="frame" style="display: inline-block; width:60%;">
+  <div class="frame" style="display: inline-block; width:100%;">
     <img src="/images/portfolio/ncbl4.jpg" alt="NCBL architecture diagram">
   </div>
 
