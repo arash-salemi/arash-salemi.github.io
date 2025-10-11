@@ -56,9 +56,12 @@ With over four years of experience, I integrate system identification, optimizat
   <p><strong>Coding: </strong> C#, Python, Unity.</p>
   <p><strong>Sensors:</strong> Shimmer3 GSR, Depth Camera</p>
   <p><strong>Robotic System:</strong> Kinarm (BKIN Technologies Ltd., Canada).</p>
+    
+  <div class="frame" style="width:60%; margin:0 auto;">
+    <img src="/images/portfolio/ncbl1.jpg" alt="NCBL architecture diagram">
+  </div>
 
   <div class="img-grid two">
-    <div class="frame"><img src="/images/portfolio/ncbl1.jpg" alt="NCBL architecture diagram"></div>
     <div class="frame"><img src="/images/portfolio/ncbl2.jpg" alt="NCBL Unity games"></div>
   </div>
 </section>
