@@ -76,6 +76,17 @@ With over four years of experience, I integrate system identification, optimizat
   </div>
 </section>
 
+<hr>
+<h2>Technical Skills</h2>
+
+<ul>
+  <li><strong>Programming Languages:</strong> Python, C++, C#, MATLAB/Simulink, PLC Programming</li>
+  <li><strong>Robotic Systems:</strong> Kinarm, Paragrip Parallel Robot, Quanser 2D Planar Robot, Parrot Mambo Drone</li>
+  <li><strong>Control Algorithms:</strong> PID, Sliding Mode Control, Optimal Control, Model Predictive Control (MPC), Resolved-Rate Motion Control, Deep Learning-Based Control, Reinforcement Learning</li>
+  <li><strong>System Identification:</strong> Kalman Filter Variants (KF), Moving Horizon Estimation (MHE), Expectation-Maximization (EM)</li>
+  <li><strong>Tools & Technologies:</strong> Unity, ROS, Git, LaTeX, VS Code, Linux (Ubuntu), Arduino</li>
+  <li><strong>Engineering Software:</strong> SolidWorks, AutoCAD, MSC.ADAMS</li>
+</ul>
 
 
 <h2>Selected Projects</h2>
