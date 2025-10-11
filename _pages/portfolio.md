@@ -60,3 +60,29 @@ With over four years of experience, I integrate system identification, optimizat
     <div class="frame"><img src="/images/portfolio/aras1.jpg" alt="ARAS quadrotor control diagram"></div>
   </div>
 </section>
+
+
+
+<h2>Selected Projects</h2>
+
+<!-- Reinforcement Learning–based Controller for Object Grasping -->
+<section class="portfolio-block">
+  <h3>Reinforcement Learning–based Controller for Object Grasping</h3>
+  <p><strong>Objective:</strong> Develop an intelligent control system enabling a KUKA robotic arm to autonomously grasp diverse objects in simulation.</p>
+  
+  <p><strong>Methods:</strong> 
+  Implemented a reinforcement learning agent using the <strong>Proximal Policy Optimization (PPO)</strong> algorithm within the PyBullet physics simulator. 
+  Integrated <strong>PID feedback signals</strong> into the reward function to improve sample efficiency, and introduced <strong>meta-learning</strong> and <strong>attention layers</strong> to enhance adaptability across grasping tasks.</p>
+  
+  <p><strong>Outcome:</strong> 
+  Achieved robust and stable grasping performance across varying object sizes and shapes, demonstrating improved convergence speed and policy generalization.</p>
+  
+  <p><strong>Tools:</strong> Python, PyBullet, Stable-Baselines3, TensorFlow/PyTorch, OpenAI Gym</p>
+
+  <div class="img-grid two">
+    <div class="frame"><img src="/images/portfolio/grasp1.jpg" alt="RL grasping simulation - PyBullet"></div>
+    <div class="frame"><img src="/images/portfolio/grasp2.jpg" alt="RL agent architecture diagram"></div>
+  </div>
+</section>
+
+
