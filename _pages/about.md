@@ -21,14 +21,19 @@ Over the years, I have worked on a broad range of projects in robotics, control,
 
 I also conducted many projects using Machine Learning Methods, such as Emotion Recognition using Vision Transformers (ViT), Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
 
+<style>
+  /* Force two columns even on mobile for this gallery */
+  .img-grid.two.no-stack{
+    display:grid !important;
+    grid-template-columns:repeat(2,minmax(0,1fr)) !important;
+    gap:14px !important;
+  }
+</style>
+
 <div class="talk-images">
-  <div class="img-grid two">
-    <div class="frame">
-      <img src="/images/talks/talk33.jpg" alt="" loading="lazy">
-    </div>
-    <div class="frame">
-      <img src="/images/talks/talk55.jpg" alt="" loading="lazy">
-    </div>
+  <div class="img-grid two no-stack">
+    <div class="frame"><img src="/images/talks/talk5.jpg" alt="" loading="lazy"></div>
+    <div class="frame"><img src="/images/talks/talk55.jpg" alt="" loading="lazy"></div>
   </div>
 </div>
 
