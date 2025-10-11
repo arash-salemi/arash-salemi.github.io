@@ -5,15 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-
-<h2>Portfolio Overview</h2>
-<p>
-I am an M.Sc. student in Mechanical Engineering at the University of Alberta, specializing in robotics, control systems, and machine learning. 
-My work focuses on developing real-time estimation and control algorithms for personalized human–robot interaction. 
-With over four years of experience, I integrate system identification, optimization, and computer vision techniques to enhance robotic training and user experience.
-</p>
-
-
 <h2>Experiences</h2>
 
 <!-- IDEA Lab -->
