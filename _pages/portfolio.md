@@ -53,8 +53,8 @@ With over four years of experience, I integrate system identification, optimizat
   <h3>Neuromuscular Control & Biomechanics Lab (NCBL) — Machine Learning Research Assistant <span style="font-weight:normal;">(2023 – 2025)</span></h3>
   <p><strong>Objective:</strong> The project aims to create an adaptive, performance-driven game environment in Unity to evaluate and enhance users' motor skills. It includes a real-time emotion-aware system, allowing the game to respond dynamically to players' emotional states, and employs advanced recommender systems to adjust game difficulty based on performance and emotional feedback.</p>
   <p><strong>Outcome:</strong> Four distinct games - Spaceship, Pong, Draw, and Hit Target - were successfully developed to assess and improve users' motor skills through interactive games. The implementation of real-time emotion recognition using vision transformers allowed for accurate classification of players' emotions, enabling responsive adaptations that enhance user engagement. Furthermore, a sophisticated recommendation system was created using fuzzy logic, reinforcement learning, and LLMs to dynamically adjust game difficulty in response to player performance and emotions, resulting in a highly personalized and immersive gaming experience.</p>
-  <p><strong>Coding: </strong> Python, Unity, C#.</p>
-  <p><strong>Sensors & tools:</strong> Shimmer3 GSR, Depth Camera, Joystick.</p>
+  <p><strong>Coding: </strong> C#, Python, Unity.</p>
+  <p><strong>Sensors:</strong> Shimmer3 GSR, Depth Camera</p>
   <p><strong>Robotic System:</strong> Kinarm (BKIN Technologies Ltd., Canada).</p>
 
   <div class="img-grid two">
