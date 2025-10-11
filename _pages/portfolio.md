@@ -55,7 +55,8 @@ With over four years of experience, I integrate system identification, optimizat
   <p><strong>Outcome:</strong> Four distinct games - Spaceship, Pong, Draw, and Hit Target - were successfully developed to assess and improve users' motor skills through interactive games. The implementation of real-time emotion recognition using vision transformers allowed for accurate classification of players' emotions, enabling responsive adaptations that enhance user engagement. Furthermore, a sophisticated recommendation system was created using fuzzy logic, reinforcement learning, and LLMs to dynamically adjust game difficulty in response to player performance and emotions, resulting in a highly personalized and immersive gaming experience.</p>
   <p><strong>Coding: </strong> Python, Unity, C#.</p>
   <p><strong>o	Sensors & tools:</strong> Shimmer3 GSR, Depth Camera, Joystick.</p>
-  
+  <p><strong>Robotic System:</strong> Kinarm (BKIN Technologies Ltd., Canada).</p>
+
   <div class="img-grid two">
     <div class="frame"><img src="/images/portfolio/ncbl1.jpg" alt="NCBL architecture diagram"></div>
     <div class="frame"><img src="/images/portfolio/ncbl2.jpg" alt="NCBL Unity games"></div>
