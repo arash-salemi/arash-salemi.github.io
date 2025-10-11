@@ -34,7 +34,7 @@ With over four years of experience, I integrate system identification, optimizat
 
 <!-- IGMR -->
 <section class="portfolio-block">
-  <h3>Institute of Mechanism Theory, Machine Dynamics and Robotics (IGMR) — Robotics Research Assistant <span style="font-weight:normal;"> summer 2025 </span></h3>
+  <h3>Institute of Mechanism Theory, Machine Dynamics and Robotics (IGMR) — Robotics Research Assistant <span style="font-weight:normal;"> (summer 2025) </span></h3>
   <p><strong>Objective:</strong> Develop a custom ROS 2 controller for the Paragrip parallel robot, integrated with the ROS 2 Control and Gazebo simulation environments. The controller enables real-time trajectory execution using resolved-rate motion control and compensates for object drift through real-time sensor feedback.</p>
   <p><strong>Outcome:</strong> Successfully designed, implemented, and tested a fully functional ROS 2 controller capable of executing joint trajectories in real time. The controller correctly handles position and velocity command/state interfaces, supports multi-arm operation, and compensates for object drift via real-time sensor feedback during motion.</p>
   <p><strong>Coding & Tools: </strong> C++, Python, ROS 2, GitLab, Gazebo, RViz..</p>
