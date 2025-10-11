@@ -64,7 +64,7 @@ With over four years of experience, I integrate system identification, optimizat
   </div>
 
   <div class="frame" style="display: inline-block; width:60%;">
-    <img src="/images/portfolio/ncbl2.jpg" alt="NCBL architecture diagram">
+    <img src="/images/portfolio/ncbl4.jpg" alt="NCBL architecture diagram">
   </div>
 
 </div>
