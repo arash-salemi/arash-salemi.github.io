@@ -61,8 +61,8 @@ With over four years of experience, I integrate system identification, optimizat
     <img src="/images/portfolio/ncbl3.jpg" alt="NCBL architecture diagram">
   </div>
 
-  <div class="img-grid two">
-    <div class="frame"><img src="/images/portfolio/ncbl2.jpg" alt="NCBL Unity games"></div>
+  <div class="frame" style="width:60%; margin:0 auto;">
+    <img src="/images/portfolio/ncbl1.jpg" alt="NCBL architecture diagram">
   </div>
 </section>
 
