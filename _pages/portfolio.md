@@ -82,7 +82,7 @@ With over four years of experience, I integrate system identification, optimizat
 
 <!-- Design of data-driven MPC controller for vehicle path tracking -->
 <section class="portfolio-block">
-  <h3>Reinforcement Learning-based Controller for Object Grasping</h3>
+  <h3>Design of data-driven MPC controller for vehicle path tracking</h3>
   <ul>
     <li>•	Excited the system with various signals and collected data to apply machine learning techniques to model the system dynamics (3DOF Vehicle Bicycle Model with Force Input in MATLAB)</li>
     <li>•	Linearized the model using the ARX function and developed a linear MPC controller with constraints</li>
@@ -97,7 +97,7 @@ With over four years of experience, I integrate system identification, optimizat
 
 <!-- Human Activity Recognition (HAR) -->
 <section class="portfolio-block">
-  <h3>Reinforcement Learning-based Controller for Object Grasping</h3>
+  <h3>Human Activity Recognition (HAR)</h3>
   <ul>
     <li>Dimension reduction and pre-processing of IMU data collected via a smartphone</li>
     <li>•	Employed DNN, GRU, and bidirectional GRU to classify human activities, such as walking, sitting, etc.</li>
