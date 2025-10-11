@@ -48,10 +48,10 @@ and
 <div class="talk-images">
   <div class="img-grid two no-stack">
     <div class="frame">
-      <img src="/images/talks/talk33.jpg" alt="" loading="lazy">
+      <img src="/images/talks/talk333.jpg" alt="" loading="lazy">
     </div>
     <div class="frame">
-      <img src="/images/talks/talk55.jpg" alt="" loading="lazy">
+      <img src="/images/talks/talk555.jpg" alt="" loading="lazy">
     </div>
   </div>
 </div>
