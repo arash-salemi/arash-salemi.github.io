@@ -32,7 +32,7 @@ I also conducted many projects using Machine Learning Methods, such as Emotion R
 
 <div class="talk-images">
   <div class="img-grid two no-stack">
-    <div class="frame"><img src="/images/talks/talk5.jpg" alt="" loading="lazy"></div>
+    <div class="frame"><img src="/images/talks/talk33.jpg" alt="" loading="lazy"></div>
     <div class="frame"><img src="/images/talks/talk55.jpg" alt="" loading="lazy"></div>
   </div>
 </div>
