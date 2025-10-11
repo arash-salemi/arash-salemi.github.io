@@ -104,7 +104,7 @@ With over four years of experience, I integrate system identification, optimizat
     <li>Optimized network hyperparameters (learning rate, neuron numbers, etc.) using Grid Search and GA</li>
   </ul>
 
-  <div class="frame" style="max-height:10px;">
+  <div class="frame" style="max-height:400px;">
     <img src="/images/portfolio/HAR.jpg" alt="HAR Project" style="object-fit:contain; height:100%; width:100%;">
   </div>
 </section>
