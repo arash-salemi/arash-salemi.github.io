@@ -84,9 +84,9 @@ With over four years of experience, I integrate system identification, optimizat
 <section class="portfolio-block">
   <h3>Design of data-driven MPC controller for vehicle path tracking</h3>
   <ul>
-    <li>•	Excited the system with various signals and collected data to apply machine learning techniques to model the system dynamics (3DOF Vehicle Bicycle Model with Force Input in MATLAB)</li>
-    <li>•	Linearized the model using the ARX function and developed a linear MPC controller with constraints</li>
-    <li>•	Designed a nonlinear MPC controller incorporating the NARX model and considering constraints to perform trajectory tracking with minimum change in the vehicle yaw rate</li>
+    <li>Excited the system with various signals and collected data to apply machine learning techniques to model the system dynamics (3DOF Vehicle Bicycle Model with Force Input in MATLAB)</li>
+    <li>Linearized the model using the ARX function and developed a linear MPC controller with constraints</li>
+    <li>Designed a nonlinear MPC controller incorporating the NARX model and considering constraints to perform trajectory tracking with minimum change in the vehicle yaw rate</li>
   </ul>
 
   <div class="img-grid two">
@@ -100,11 +100,11 @@ With over four years of experience, I integrate system identification, optimizat
   <h3>Human Activity Recognition (HAR)</h3>
   <ul>
     <li>Dimension reduction and pre-processing of IMU data collected via a smartphone</li>
-    <li>•	Employed DNN, GRU, and bidirectional GRU to classify human activities, such as walking, sitting, etc.</li>
-    <li>•	Optimized network hyperparameters (learning rate, neuron numbers, etc.) using Grid Search and GA</li>
+    <li>Employed DNN, GRU, and bidirectional GRU to classify human activities, such as walking, sitting, etc.</li>
+    <li>Optimized network hyperparameters (learning rate, neuron numbers, etc.) using Grid Search and GA</li>
   </ul>
 
-  <div class="img-grid two">
+  <div class="frame" style="max-height:400px;">
     <div class="frame"><img src="/images/portfolio/HAR.jpg" alt="RL Grasping - PyBullet simulation"></div>
   </div>
 </section>
