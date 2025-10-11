@@ -105,6 +105,6 @@ With over four years of experience, I integrate system identification, optimizat
   </ul>
 
   <div class="frame" style="max-height:10px;">
-    <div class="frame"><img src="/images/portfolio/HAR.jpg" alt="RL Grasping - PyBullet simulation"></div>
+    <img src="/images/portfolio/HAR.jpg" alt="HAR Project" style="object-fit:contain; height:100%; width:100%;">
   </div>
 </section>
