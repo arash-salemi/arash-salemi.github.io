@@ -108,3 +108,18 @@ With over four years of experience, I integrate system identification, optimizat
     <img src="/images/portfolio/HAR.jpg" alt="HAR Project" style="object-fit:contain; height:100%; width:100%;">
   </div>
 </section>
+
+
+<!-- Human motion analysis with motion capture system and force plate data -->
+<section class="portfolio-block">
+  <h3>Human motion analysis with motion capture system and force plate data</h3>
+  <ul>
+    <li>Processed, analyzed, and visualized the motion capture system and force plate data for the lower body of a number of participants walking in a human movement laboratory</li>
+    <li>Calculated kinematics and inverse dynamics to find motion, forces, moments, and powers of ankle, knee, and hip joints</li>
+  </ul>
+
+  <div class="frame" style="max-height:400px;">
+    <img src="/images/portfolio/motion.jpg" alt="HAR Project" style="object-fit:contain; height:100%; width:100%;">
+  </div>
+</section>
+
