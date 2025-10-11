@@ -181,6 +181,9 @@ Profossional Experience
 
 </table>
 
+<style>
+  .section-spacing { margin-bottom: 60px; }
+</style>
 
 Technical Skills
 ======
