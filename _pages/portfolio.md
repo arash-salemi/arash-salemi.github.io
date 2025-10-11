@@ -65,9 +65,17 @@ With over four years of experience, I integrate system identification, optimizat
 
 <h2>Selected Projects</h2>
 
-**Reinforcement Learning-based Controller for Object Grasping**
-- Developed a reinforcement learning agent based on the PPO algorithm for grasping objects with the Kuka arm in PyBullet  
-- Enhanced sample efficiency using PID controller feedback in the reward function  
-- Improved performance using a meta-learning agent and attention layers
+<!-- Reinforcement Learning-based Controller for Object Grasping -->
+<section class="portfolio-block">
+  <h3>Reinforcement Learning-based Controller for Object Grasping</h3>
+  <ul>
+    <li>Developed a reinforcement learning agent based on the PPO algorithm for grasping objects with the Kuka arm in PyBullet</li>
+    <li>Enhanced sample efficiency using PID controller feedback in the reward function</li>
+    <li>Improved performance using a meta-learning agent and attention layers</li>
+  </ul>
 
-
+  <div class="img-grid two">
+    <div class="frame"><img src="/images/portfolio/grasp1.jpg" alt="RL Grasping - PyBullet simulation"></div>
+    <div class="frame"><img src="/images/portfolio/grasp2.jpg" alt="RL Agent training or architecture"></div>
+  </div>
+</section>
