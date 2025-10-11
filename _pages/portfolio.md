@@ -18,7 +18,7 @@ With over four years of experience, I integrate system identification, optimizat
 
 <!-- IDEA Lab -->
 <section class="portfolio-block">
-  <h3>IDEA Lab — Robotics Engineer <span style="font-weight:normal;">(Sept. 2022 – Dec. 2025)</span></h3>
+  <h3>IDEA Lab — Robotics Research Assistant <span style="font-weight:normal;">(2023 – now)</span></h3>
   <p><strong>Objective:</strong> Delivering optimal personalized robotic training using online system identification and optimal control methods.</p>
   <p><strong>Methods:</strong> Implemented Joint Extended Kalman Filter (JEKF) and Moving Horizon Estimation (MHE) for real-time state and parameter estimation in upper-limb motor learning. 
   Developed Model Predictive Control (MPC) and Linear Quadratic Regulator (LQR) frameworks for personalized robotic rehabilitation scheduling.</p>
@@ -35,7 +35,7 @@ With over four years of experience, I integrate system identification, optimizat
 
 <!-- NCBL -->
 <section class="portfolio-block">
-  <h3>Neuromuscular Control & Biomechanics Lab (NCBL) — Machine Learning Engineer <span style="font-weight:normal;">(Sept. 2023 – Sept. 2024)</span></h3>
+  <h3>Neuromuscular Control & Biomechanics Lab (NCBL) — Machine Learning Research Assistant <span style="font-weight:normal;">(2023 – 2025)</span></h3>
   <p><strong>Objective:</strong> Develop adaptive Unity games that assess and enhance user motor skills using emotion-aware, performance-driven feedback.</p>
   <p><strong>Outcome:</strong> Created four games (Spaceship, Pong, Draw, Hit Target) with real-time emotion recognition using Vision Transformers. 
   Integrated recommender systems using fuzzy logic, reinforcement learning, and LLMs for dynamic difficulty adjustment.</p>
@@ -51,7 +51,7 @@ With over four years of experience, I integrate system identification, optimizat
 
 <!-- ARAS -->
 <section class="portfolio-block">
-  <h3>Advanced Robotics and Automated Systems Lab (ARAS) — Controls Systems Research Intern <span style="font-weight:normal;">(Sept. 2021 – Feb. 2023)</span></h3>
+  <h3>Advanced Robotics and Automated Systems Lab (ARAS) — Controls Systems Research Assistant <span style="font-weight:normal;">(2021 – 2023)</span></h3>
   <p><strong>Objective:</strong> To design and optimize a robust control system for a quadrotor by developing an accurate dynamic model, implementing enhanced PID control strategies, and leveraging reinforcement learning techniques to improve adaptability in altitude control.</p>
   <p><strong>Outcome:</strong> An accurate quadrotor dynamic model was developed and validated using Newton-Euler and Lagrange equations, ensuring precise system representation. Six PID controllers with optimized coefficients were implemented to significantly improve system stability and performance. Additionally, a reinforcement learning agent utilizing the Deep Deterministic Policy Gradient (DDPG) algorithm was developed, resulting in enhanced adaptability and responsiveness to environmental changes.</p>
 
