@@ -9,6 +9,9 @@ redirect_from:
 
 I am currently pursuing my M.Sc. in Mechanical Engineering at the IDEA Lab, University of Alberta, under the supervision of Dr. Milad Nazarahari and Dr. Albert Vette. The objective of my current research is to apply principles of optimal control, state estimation, neuroscience, and reinforcement learning to optimize learning during robotic rehabilitation.
 
+<a href="https://apps.ualberta.ca/directory/person/nazaraha" target="_blank">Dr. Milad Nazarahari</a>
+
+
 In past years, I have worked on a variety of projects, such as developing MPC controllers for path tracking, employing reinforcement learning for quadrotor control, designing fuzzy logic and PID controllers for mobile robots, Analyzing a 7-DOF Vehicle Vibration Model, Manufacturing Automatic Hand Sanitizer, Signal processing different sensors’ data, Controlling the TurtleBot in ROS, Modeling some Mechanisms, and so on. 
 
 I also conducted many projects using Machine Learning Methods, such as Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
