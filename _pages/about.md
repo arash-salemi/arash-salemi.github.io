@@ -17,9 +17,11 @@ and
 <a href="https://apps.ualberta.ca/directory/person/vette" target="_blank">Dr. Albert Vette</a>
 . The objective of my current research is to apply principles of optimal control, state estimation, neuroscience, and reinforcement learning to optimize learning during robotic training.
 
-In past years, I have worked on a variety of projects, such as developing MPC controllers for path tracking, employing reinforcement learning for quadrotor control, designing fuzzy logic and PID controllers for mobile robots, Analyzing a 7-DOF Vehicle Vibration Model, Manufacturing Automatic Hand Sanitizer, Signal processing different sensors’ data, Controlling the TurtleBot in ROS, Modeling some Mechanisms, and so on. 
+In past years, I have worked on a variety of projects, such as developing Data-driven MPC controllers for path tracking, employing reinforcement learning for quadrotor control, designing fuzzy logic and PID controllers for mobile robots, Analyzing a 7-DOF Vehicle Vibration Model, Manufacturing Automatic Hand Sanitizer, Signal processing different sensors’ data, Controlling the TurtleBot in ROS, Modeling some Mechanisms, and so on. 
 
-I also conducted many projects using Machine Learning Methods, such as Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
+Over the years, I have worked on a broad range of projects in robotics, control, and machine learning. These include developing ROS 2 Trajectory Tracking Controller for the Paragrip Parallel Robot, implementing reinforcement learning algorithms for Kuka arm object-grasping, developing data-driven MPC controllers for vehivle path tracking, implementing reinforcement-learning based quadrotor control, and designing fuzzy logic and PID controllers for mobile robots.
+
+I also conducted many projects using Machine Learning Methods, such as emotion recognition using Vision Transformers (ViT), Human Activity Recognition (HAR), Red Blood Cell classification, Breast Cancer Detection, Stock Market Price Prediction, Wheat Head Detection, and finding the Optimal Policy for reaching a goal in a grid world by Q-Learning algorithm.
 
 Honors and Awards
 ======
