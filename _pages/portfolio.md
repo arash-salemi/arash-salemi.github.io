@@ -52,12 +52,11 @@ With over four years of experience, I integrate system identification, optimizat
 <!-- ARAS -->
 <section class="portfolio-block">
   <h3>Advanced Robotics and Automated Systems Lab (ARAS) — Controls Systems Research Intern <span style="font-weight:normal;">(Sept. 2021 – Feb. 2023)</span></h3>
-  <p><strong>Objective:</strong> Design and optimize robust control systems for quadrotor flight using dynamic modeling, PID optimization, and reinforcement learning.</p>
-  <p><strong>Outcome:</strong> Built and validated a full dynamic model, implemented six optimized PID controllers, 
-  and developed a DDPG-based reinforcement learning agent to improve altitude control adaptability.</p>
+  <p><strong>Objective:</strong> To design and optimize a robust control system for a quadrotor by developing an accurate dynamic model, implementing enhanced PID control strategies, and leveraging reinforcement learning techniques to improve adaptability in altitude control.</p>
+  <p><strong>Outcome:</strong> An accurate quadrotor dynamic model was developed and validated using Newton-Euler and Lagrange equations, ensuring precise system representation. Six PID controllers with optimized coefficients were implemented to significantly improve system stability and performance. Additionally, a reinforcement learning agent utilizing the Deep Deterministic Policy Gradient (DDPG) algorithm was developed, resulting in enhanced adaptability and responsiveness to environmental changes.</p>
 
   <div class="img-grid one">
-    <div class="frame"><img src="/images/portfolio/aras1.jpg" alt="ARAS quadrotor control diagram"></div>
+    <div class="frame"><img src="/images/portfolio/aras.jpg" alt="ARAS quadrotor control diagram"></div>
   </div>
 </section>
 
