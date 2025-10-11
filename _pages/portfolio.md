@@ -19,10 +19,10 @@ With over four years of experience, I integrate system identification, optimizat
 <!-- IDEA Lab -->
 <section class="portfolio-block">
   <h3>IDEA Lab — Robotics Engineer <span style="font-weight:normal;">(Sept. 2022 – Dec. 2025)</span></h3>
-  <p><strong>Objective:</strong> Delivering optimal personalized robot-aided training using online system identification and optimal control methods.</p>
-  <p><strong>Methods:</strong> Implemented Kalman Filter (KF) and Moving Horizon Estimation (MHE) for real-time state and parameter estimation in upper-limb motor learning. 
+  <p><strong>Objective:</strong> Delivering optimal personalized robotic training using online system identification and optimal control methods.</p>
+  <p><strong>Methods:</strong> Implemented Joint Extended Kalman Filter (JEKF) and Moving Horizon Estimation (MHE) for real-time state and parameter estimation in upper-limb motor learning. 
   Developed Model Predictive Control (MPC) and Linear Quadratic Regulator (LQR) frameworks for personalized robotic rehabilitation scheduling.</p>
-  <p><strong>Outcome:</strong> Created individualized motor learning models and optimized tasks per participant, achieving improved adaptation rates and retention.</p>
+  <p><strong>Outcome:</strong> Created individualized motor learning models and optimized training schedules per participant, achieving improved learning rates and long-term retention.</p>
   <p><strong>Tools:</strong> MATLAB/Simulink, C++, Kinarm, Quanser 2D planar robot.</p>
 
   <div class="img-grid two">
