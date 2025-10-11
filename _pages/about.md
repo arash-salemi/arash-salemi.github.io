@@ -23,8 +23,8 @@ I also conducted many projects using Machine Learning Methods, such as Emotion R
 
 <div class="talk-images">
   <div class="img-grid two">
-    <div class="frame"><img src="/images/talks/talk6.jpg" alt="FEGRS talk - photo 1" loading="lazy"></div>
-    <div class="frame"><img src="/images/talks/talk6666.jpg" alt="FEGRS talk - photo 2" loading="lazy"></div>
+    <div class="frame"><img src="/images/talks/talk33.jpg" alt="FEGRS talk - photo 1" loading="lazy"></div>
+    <div class="frame"><img src="/images/talks/talk55.jpg" alt="FEGRS talk - photo 2" loading="lazy"></div>
   </div>
 </div>
 
