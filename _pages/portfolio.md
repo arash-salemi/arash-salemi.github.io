@@ -58,7 +58,7 @@ With over four years of experience, I integrate system identification, optimizat
   <p><strong>Robotic System:</strong> Kinarm (BKIN Technologies Ltd., Canada).</p>
     
   <div class="frame" style="width:60%; margin:0 auto;">
-    <img src="/images/portfolio/ncbl1.jpg" alt="NCBL architecture diagram">
+    <img src="/images/portfolio/ncbl3.jpg" alt="NCBL architecture diagram">
   </div>
 
   <div class="img-grid two">
