@@ -76,6 +76,5 @@ With over four years of experience, I integrate system identification, optimizat
 
   <div class="img-grid two">
     <div class="frame"><img src="/images/portfolio/grasp1.jpg" alt="RL Grasping - PyBullet simulation"></div>
-    <div class="frame"><img src="/images/portfolio/grasp2.jpg" alt="RL Agent training or architecture"></div>
   </div>
 </section>
