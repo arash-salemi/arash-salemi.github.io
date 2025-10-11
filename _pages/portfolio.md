@@ -14,7 +14,7 @@ With over four years of experience, I integrate system identification, optimizat
 </p>
 
 
-<h2>Highlighted Works</h2>
+<h2>Experiences</h2>
 
 <!-- IDEA Lab -->
 <section class="portfolio-block">
@@ -30,6 +30,22 @@ With over four years of experience, I integrate system identification, optimizat
     <div class="frame"><img src="/images/portfolio/idea2.jpg" alt="IDEA Lab Kinarm experiment"></div>
   </div>
 </section>
+
+<hr>
+
+<!-- IGMR -->
+<section class="portfolio-block">
+  <h3>Institute of Mechanism Theory, Machine Dynamics and Robotics (IGMR) — Robotics Research Assistant <span style="font-weight:normal;">(2023 – 2025)</span></h3>
+  <p><strong>Objective:</strong> Develop adaptive Unity games that assess and enhance user motor skills using emotion-aware, performance-driven feedback.</p>
+  <p><strong>Outcome:</strong> Created four games (Spaceship, Pong, Draw, Hit Target) with real-time emotion recognition using Vision Transformers. 
+  Integrated recommender systems using fuzzy logic, reinforcement learning, and LLMs for dynamic difficulty adjustment.</p>
+  <p><strong>Tools:</strong> Python, Unity, C#, Shimmer3 GSR, Depth camera, Joystick.</p>
+
+  <div class="img-grid two">
+    <div class="frame"><img src="/images/portfolio/igmr.jpg" alt="NCBL architecture diagram"></div>
+  </div>
+</section>
+
 
 <hr>
 
