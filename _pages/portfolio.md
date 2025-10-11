@@ -37,7 +37,7 @@ With over four years of experience, I integrate system identification, optimizat
   <h3>Institute of Mechanism Theory, Machine Dynamics and Robotics (IGMR) — Robotics Research Assistant <span style="font-weight:normal;"> (summer 2025) </span></h3>
   <p><strong>Objective:</strong> Develop a custom ROS 2 controller for the Paragrip parallel robot, integrated with the ROS 2 Control and Gazebo simulation environments. The controller enables real-time trajectory execution using resolved-rate motion control and compensates for object drift through real-time sensor feedback.</p>
   <p><strong>Outcome:</strong> Successfully designed, implemented, and tested a fully functional ROS 2 controller capable of executing joint trajectories in real time. The controller correctly handles position and velocity command/state interfaces, supports multi-arm operation, and compensates for object drift via real-time sensor feedback during motion.</p>
-  <p><strong>Coding & Tools: </strong> C++, Python, ROS 2, GitLab, Gazebo, RViz..</p>
+  <p><strong>Coding & Tools: </strong> C++, Python, ROS 2, GitLab, Gazebo, RViz.</p>
   <p><strong>Robotic System:</strong> Paragrip Parallel Robot.</p>
 
   <div class="img-grid two">
@@ -51,11 +51,11 @@ With over four years of experience, I integrate system identification, optimizat
 <!-- NCBL -->
 <section class="portfolio-block">
   <h3>Neuromuscular Control & Biomechanics Lab (NCBL) — Machine Learning Research Assistant <span style="font-weight:normal;">(2023 – 2025)</span></h3>
-  <p><strong>Objective:</strong> Develop adaptive Unity games that assess and enhance user motor skills using emotion-aware, performance-driven feedback.</p>
-  <p><strong>Outcome:</strong> Created four games (Spaceship, Pong, Draw, Hit Target) with real-time emotion recognition using Vision Transformers. 
-  Integrated recommender systems using fuzzy logic, reinforcement learning, and LLMs for dynamic difficulty adjustment.</p>
-  <p><strong>Tools:</strong> Python, Unity, C#, Shimmer3 GSR, Depth camera, Joystick.</p>
-
+  <p><strong>Objective:</strong> The project aims to create an adaptive, performance-driven game environment in Unity to evaluate and enhance users' motor skills. It includes a real-time emotion-aware system, allowing the game to respond dynamically to players' emotional states, and employs advanced recommender systems to adjust game difficulty based on performance and emotional feedback.</p>
+  <p><strong>Outcome:</strong> Four distinct games - Spaceship, Pong, Draw, and Hit Target - were successfully developed to assess and improve users' motor skills through interactive games. The implementation of real-time emotion recognition using vision transformers allowed for accurate classification of players' emotions, enabling responsive adaptations that enhance user engagement. Furthermore, a sophisticated recommendation system was created using fuzzy logic, reinforcement learning, and LLMs to dynamically adjust game difficulty in response to player performance and emotions, resulting in a highly personalized and immersive gaming experience.</p>
+  <p><strong>Coding: </strong> Python, Unity, C#.</p>
+  <p><strong>o	Sensors & tools:</strong> Shimmer3 GSR, Depth Camera, Joystick.</p>
+  
   <div class="img-grid two">
     <div class="frame"><img src="/images/portfolio/ncbl1.jpg" alt="NCBL architecture diagram"></div>
     <div class="frame"><img src="/images/portfolio/ncbl2.jpg" alt="NCBL Unity games"></div>
