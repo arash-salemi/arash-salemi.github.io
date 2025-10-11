@@ -190,7 +190,7 @@ Technical Skills
 ======
 <ul>
   <li><strong>Programming Languages:</strong> Python, C++, C#, MATLAB/Simulink, PLC Programming</li>
-  <li><strong>Robotic Systems:</strong> Kinarm, Paragrip Parallel Robot, Quanser 2D Planar Robot, Parrot Mambo Drone</li>
+  <li><strong>Robotic Systems:</strong> Kinarm, Paragrip Robot, Quanser 2D Planar Robot, Parrot Mambo Drone</li>
   <li><strong>Control Algorithms:</strong> PID, Optimal Control, Model Predictive Control (MPC), Resolved-Rate Motion Control, Deep Learning-Based Control, Reinforcement Learning</li>
   <li><strong>Machine Learning Algorithms:</strong> Reinforcement Learning (Q-Learning, DDPG, PPO), Computer Vision (CNNs, ViT, YOLO), Sequential Models (RNN, LSTM, GRU), and Classical Machine Learning Methods</li>
   <li><strong>System Identification:</strong> Kalman Filter Variants (KF), Moving Horizon Estimation (MHE), Expectation-Maximization (EM)</li>
