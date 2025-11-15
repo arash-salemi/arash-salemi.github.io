@@ -63,8 +63,8 @@ author_profile: true
   <div class="talk-meta">Robotics & Intelligent Systems Expo (RISEx 2025), Edmonton, Canada</div>
   <div class="talk-images">
     <div class="img-grid two">
-      <div class="frame"><img src="/images/talks/talk7.jpg" alt="FEGRS talk - photo 1" loading="lazy"></div>
-      <div class="frame"><img src="/images/talks/talk77.jpg" alt="FEGRS talk - photo 2" loading="lazy"></div>
+      <div class="frame"><img src="/images/talks/talk7.JPG" alt="FEGRS talk - photo 1" loading="lazy"></div>
+      <div class="frame"><img src="/images/talks/talk77.JPG" alt="FEGRS talk - photo 2" loading="lazy"></div>
     </div>
   </div>
 </section>
