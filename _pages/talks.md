@@ -56,6 +56,21 @@ author_profile: true
 }
 </style>
 
+<!-- 2024 — Talk 7 -->
+<section class="talk-block">
+  <h3>Personalized Robotic Training using Online Estimation of Human Motor Learning</h3>
+  <div class="talk-meta">November 14, 2025</div>
+  <div class="talk-meta">Robotics & Intelligent Systems Expo (RISEx 2025), Edmonton, Canada</div>
+  <div class="talk-images">
+    <div class="img-grid two">
+      <div class="frame"><img src="/images/talks/talk7.jpg" alt="FEGRS talk - photo 1" loading="lazy"></div>
+      <div class="frame"><img src="/images/talks/talk77.jpg" alt="FEGRS talk - photo 2" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
+<hr>
+
 <!-- 2024 — Talk 6 -->
 <section class="talk-block">
   <h3>Real-Time Modeling of Human Motor Learning in Robot-Aided Training</h3>
